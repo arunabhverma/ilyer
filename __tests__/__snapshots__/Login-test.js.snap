@@ -1,0 +1,547 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "marginTop": 131.42857142857142,
+      "paddingHorizontal": 66,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginBottom": 78.85714285714286,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      color="rgb(0, 0, 0)"
+      fontFamily="SFProText-Regular"
+      fontSize={24}
+      style={
+        Array [
+          Object {
+            "color": "rgb(0, 0, 0)",
+            "fontFamily": "SFProText-Regular",
+            "fontSize": 24,
+          },
+          Object {
+            "color": "rgb(51, 51, 51)",
+            "letterSpacing": 0.19,
+            "lineHeight": 36,
+          },
+        ]
+      }
+    >
+      Your birthday:
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "borderColor": "rgb(151, 151, 151)",
+            "borderRadius": 10.5,
+            "borderWidth": 1,
+            "height": 72.28571428571428,
+            "justifyContent": "center",
+            "textAlign": "center",
+            "width": 180,
+          }
+        }
+      >
+        <TextInput
+          allowFontScaling={true}
+          keyboardType="numeric"
+          maxLength={2}
+          onChangeText={[Function]}
+          placeholder="DD"
+          placeholderTextColor="rgb(117, 117, 117)"
+          rejectResponderTermination={true}
+          style={
+            Object {
+              "color": "rgb(56, 98, 175)",
+              "fontFamily": "SFProDisplay-Bold",
+              "fontSize": 28.5,
+              "letterSpacing": 0.29,
+              "padding": 0,
+              "textAlign": "center",
+              "width": "100%",
+            }
+          }
+          underlineColorAndroid="transparent"
+          value=""
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "rgb(151, 151, 151)",
+            "borderRadius": 10.5,
+            "borderWidth": 1,
+            "height": 72.28571428571428,
+            "justifyContent": "center",
+            "textAlign": "center",
+            "width": 180,
+          }
+        }
+      >
+        <TextInput
+          allowFontScaling={true}
+          keyboardType="numeric"
+          maxLength={2}
+          onChangeText={[Function]}
+          placeholder="MM"
+          placeholderTextColor="rgb(117, 117, 117)"
+          rejectResponderTermination={true}
+          style={
+            Object {
+              "color": "rgb(56, 98, 175)",
+              "fontFamily": "SFProDisplay-Bold",
+              "fontSize": 28.5,
+              "letterSpacing": 0.29,
+              "padding": 0,
+              "textAlign": "center",
+              "width": "100%",
+            }
+          }
+          underlineColorAndroid="transparent"
+          value=""
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "borderColor": "rgb(151, 151, 151)",
+              "borderRadius": 10.5,
+              "borderWidth": 1,
+              "height": 72.28571428571428,
+              "justifyContent": "center",
+              "textAlign": "center",
+              "width": 180,
+            },
+            Object {
+              "width": 226,
+            },
+          ]
+        }
+      >
+        <TextInput
+          allowFontScaling={true}
+          keyboardType="numeric"
+          maxLength={4}
+          onChangeText={[Function]}
+          placeholder="YYYY"
+          placeholderTextColor="rgb(117, 117, 117)"
+          rejectResponderTermination={true}
+          style={
+            Object {
+              "color": "rgb(56, 98, 175)",
+              "fontFamily": "SFProDisplay-Bold",
+              "fontSize": 28.5,
+              "letterSpacing": 0.29,
+              "padding": 0,
+              "textAlign": "center",
+              "width": "100%",
+            }
+          }
+          underlineColorAndroid="transparent"
+          value=""
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`snapshot 2`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "marginTop": 80,
+      "paddingHorizontal": 66,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginBottom": 48,
+      }
+    }
+  >
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Regular"
+        fontSize={24}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Regular",
+              "fontSize": 24,
+            },
+            Object {
+              "color": "rgb(51, 51, 51)",
+              "letterSpacing": 0.19,
+              "lineHeight": 39.42857142857143,
+            },
+          ]
+        }
+      >
+        Select your gender:
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "white",
+          "borderColor": "rgb(151, 151, 151)",
+          "borderRadius": 7,
+          "borderWidth": 1,
+          "justifyContent": "center",
+          "marginBottom": 48,
+          "opacity": 1,
+          "paddingVertical": 18.07142857142857,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        color="rgb(117, 117, 117)"
+        fontFamily="SFProDisplay-Bold"
+        fontSize={28.5}
+        letterSpacing={0.29}
+        style={
+          Array [
+            Object {
+              "color": "rgb(117, 117, 117)",
+              "fontFamily": "SFProDisplay-Bold",
+              "fontSize": 28.5,
+              "letterSpacing": 0.29,
+            },
+          ]
+        }
+      >
+        Male
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "white",
+          "borderColor": "rgb(151, 151, 151)",
+          "borderRadius": 7,
+          "borderWidth": 1,
+          "justifyContent": "center",
+          "marginBottom": 48,
+          "opacity": 1,
+          "paddingVertical": 18.07142857142857,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        color="rgb(117, 117, 117)"
+        fontFamily="SFProDisplay-Bold"
+        fontSize={28.5}
+        letterSpacing={0.29}
+        style={
+          Array [
+            Object {
+              "color": "rgb(117, 117, 117)",
+              "fontFamily": "SFProDisplay-Bold",
+              "fontSize": 28.5,
+              "letterSpacing": 0.29,
+            },
+          ]
+        }
+      >
+        Female
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "white",
+          "borderColor": "rgb(151, 151, 151)",
+          "borderRadius": 7,
+          "borderWidth": 1,
+          "justifyContent": "center",
+          "marginBottom": 48,
+          "opacity": 1,
+          "paddingVertical": 18.07142857142857,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        color="rgb(117, 117, 117)"
+        fontFamily="SFProDisplay-Bold"
+        fontSize={28.5}
+        letterSpacing={0.29}
+        style={
+          Array [
+            Object {
+              "color": "rgb(117, 117, 117)",
+              "fontFamily": "SFProDisplay-Bold",
+              "fontSize": 28.5,
+              "letterSpacing": 0.29,
+            },
+          ]
+        }
+      >
+        Other
+      </Text>
+    </View>
+  </View>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "alignSelf": "center",
+        "backgroundColor": "rgb(56, 98, 175)",
+        "borderColor": "rgba(14, 12, 29, 0.09)",
+        "borderRadius": 36.14285714285714,
+        "borderWidth": 1.5,
+        "display": "none",
+        "flexDirection": "row",
+        "height": 72.28571428571428,
+        "justifyContent": "space-between",
+        "marginBottom": 72.28571428571428,
+        "marginTop": 19.714285714285715,
+        "opacity": 1,
+        "width": 260,
+      }
+    }
+  >
+    <Image
+      resizeMode="contain"
+      style={
+        Array [
+          Object {},
+          Object {
+            "height": 30,
+            "marginLeft": 30,
+            "width": 30,
+          },
+          Object {},
+        ]
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      color="rgb(0, 0, 0)"
+      fontFamily="SFProText-Regular"
+      fontSize={24}
+      style={
+        Array [
+          Object {
+            "color": "rgb(0, 0, 0)",
+            "fontFamily": "SFProText-Regular",
+            "fontSize": 24,
+          },
+          Object {
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "SFProDisplay-Semibold",
+            "fontSize": 25.5,
+          },
+          Object {},
+        ]
+      }
+    >
+      Next
+    </Text>
+    <View
+      style={
+        Object {
+          "height": 30,
+          "marginLeft": 30,
+          "width": 30,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Regular"
+        fontSize={24}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Regular",
+              "fontSize": 24,
+            },
+            Object {
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "SFProDisplay-Semibold",
+              "fontSize": 25.5,
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`snapshot 3`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "marginTop": 131.42857142857142,
+      "paddingHorizontal": 66,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginBottom": 78.85714285714286,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      color="rgb(0, 0, 0)"
+      fontFamily="SFProText-Regular"
+      fontSize={24}
+      style={
+        Array [
+          Object {
+            "color": "rgb(0, 0, 0)",
+            "fontFamily": "SFProText-Regular",
+            "fontSize": 24,
+          },
+          Object {
+            "color": "rgb(51, 51, 51)",
+            "letterSpacing": 0.19,
+            "lineHeight": 36,
+          },
+        ]
+      }
+    >
+      Your HCP:
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "borderColor": "rgb(151, 151, 151)",
+          "borderRadius": 10.5,
+          "borderWidth": 1,
+          "height": 72.28571428571428,
+          "justifyContent": "center",
+          "textAlign": "center",
+        }
+      }
+    >
+      <TextInput
+        allowFontScaling={true}
+        keyboardType="numeric"
+        onChangeText={[Function]}
+        placeholder="HCP"
+        rejectResponderTermination={true}
+        style={
+          Object {
+            "color": "rgb(56, 98, 175)",
+            "fontFamily": "SFProDisplay-Bold",
+            "fontSize": 28.5,
+            "letterSpacing": 0.29,
+            "padding": 0,
+            "textAlign": "center",
+            "width": "100%",
+          }
+        }
+        underlineColorAndroid="transparent"
+      />
+    </View>
+  </View>
+</View>
+`;

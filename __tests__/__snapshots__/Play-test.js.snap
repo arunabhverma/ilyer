@@ -1,0 +1,1472 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginTop": 62.42857142857142,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      color="rgb(0, 0, 0)"
+      fontFamily="SFProDisplay-Bold"
+      fontSize={36}
+      letterSpacing={0.29}
+      style={
+        Array [
+          Object {
+            "color": "rgb(0, 0, 0)",
+            "fontFamily": "SFProDisplay-Bold",
+            "fontSize": 36,
+            "letterSpacing": 0.29,
+          },
+          Object {
+            "textAlign": "center",
+          },
+        ]
+      }
+    >
+      Cancel Participation
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "marginTop": 39.42857142857143,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      color="rgb(0, 0, 0)"
+      fontFamily="SFProText-Regular"
+      fontSize={24}
+      style={
+        Array [
+          Object {
+            "color": "rgb(0, 0, 0)",
+            "fontFamily": "SFProText-Regular",
+            "fontSize": 24,
+          },
+          Object {
+            "color": "rgb(51, 51, 51)",
+            "letterSpacing": 0.19,
+            "lineHeight": 36,
+          },
+        ]
+      }
+    >
+      Do you really quit your participation in this tournament? If yes, you get refund in 5-10 working days
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "rgb(241, 241, 241)",
+        "borderRadius": 6,
+        "height": 133.07142857142856,
+        "justifyContent": "center",
+        "marginTop": 19.714285714285715,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      color="rgb(0, 0, 0)"
+      fontFamily="SFProDisplay-Bold"
+      fontSize={28.5}
+      letterSpacing={0.29}
+      style={
+        Array [
+          Object {
+            "color": "rgb(0, 0, 0)",
+            "fontFamily": "SFProDisplay-Bold",
+            "fontSize": 28.5,
+            "letterSpacing": 0.29,
+          },
+        ]
+      }
+    >
+      refund: 150$
+    </Text>
+    <Text
+      allowFontScaling={false}
+      color="rgb(0, 0, 0)"
+      fontFamily="SFProText-Regular"
+      fontSize={24}
+      style={
+        Array [
+          Object {
+            "color": "rgb(0, 0, 0)",
+            "fontFamily": "SFProText-Regular",
+            "fontSize": 24,
+          },
+          Object {
+            "fontSize": 18,
+          },
+        ]
+      }
+    >
+      xxxx  xxxx  xxxx  2394
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginTop": 49.285714285714285,
+        },
+        Object {
+          "marginTop": 32.857142857142854,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "height": 72.28571428571428,
+            "width": 328,
+          },
+          Object {
+            "width": 150,
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "borderColor": "rgba(14, 12, 29, 0.09)",
+            "borderRadius": 36.14285714285714,
+            "borderWidth": 1.5,
+            "flexDirection": "row",
+            "height": 72.28571428571428,
+            "justifyContent": "space-between",
+            "marginTop": 19.714285714285715,
+            "opacity": 1,
+          }
+        }
+      >
+        <Image
+          resizeMode="contain"
+          style={
+            Array [
+              Object {},
+              Object {
+                "height": 30,
+                "marginLeft": 30,
+                "width": 30,
+              },
+              Object {},
+            ]
+          }
+        />
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+              },
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProDisplay-Semibold",
+                "fontSize": 25.5,
+              },
+              Object {},
+            ]
+          }
+        >
+          No
+        </Text>
+        <View
+          style={
+            Object {
+              "height": 30,
+              "marginLeft": 30,
+              "width": 30,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                },
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProDisplay-Semibold",
+                  "fontSize": 25.5,
+                },
+              ]
+            }
+          />
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "height": 72.28571428571428,
+            "width": 328,
+          },
+          Object {
+            "width": 150,
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "rgb(56, 98, 175)",
+            "borderColor": "rgba(14, 12, 29, 0.09)",
+            "borderRadius": 36.14285714285714,
+            "borderWidth": 1.5,
+            "flexDirection": "row",
+            "height": 72.28571428571428,
+            "justifyContent": "space-between",
+            "marginTop": 19.714285714285715,
+            "opacity": 1,
+          }
+        }
+      >
+        <Image
+          resizeMode="contain"
+          style={
+            Array [
+              Object {},
+              Object {
+                "height": 30,
+                "marginLeft": 30,
+                "width": 30,
+              },
+              Object {},
+            ]
+          }
+        />
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+              },
+              Object {
+                "color": "rgb(255, 255, 255)",
+                "fontFamily": "SFProDisplay-Semibold",
+                "fontSize": 25.5,
+              },
+              Object {},
+            ]
+          }
+        >
+          Yes
+        </Text>
+        <View
+          style={
+            Object {
+              "height": 30,
+              "marginLeft": 30,
+              "width": 30,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                },
+                Object {
+                  "color": "rgb(255, 255, 255)",
+                  "fontFamily": "SFProDisplay-Semibold",
+                  "fontSize": 25.5,
+                },
+              ]
+            }
+          />
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`snapshot 2`] = `
+<View>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "marginBottom": 26.285714285714285,
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderRadius": 27,
+          "elevation": 5,
+          "marginHorizontal": 32,
+          "padding": 36,
+          "shadowColor": "rgba(80, 84, 108, 0.25)",
+          "shadowOffset": Object {
+            "height": 1,
+            "width": 0,
+          },
+          "shadowOpacity": 0.26,
+          "shadowRadius": 5,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProDisplay-Semibold"
+          fontSize={22.5}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProDisplay-Semibold",
+                "fontSize": 22.5,
+              },
+            ]
+          }
+        >
+          Hole
+           
+        </Text>
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+              },
+              Object {
+                "color": "rgb(56, 98, 175)",
+                "fontFamily": "SFProText-Semibold",
+                "fontSize": 21,
+              },
+            ]
+          }
+        >
+          Track Result
+        </Text>
+        <View
+          style={
+            Object {
+              "borderColor": "rgba(166, 166, 167, 0.35)",
+              "borderRadius": 26,
+              "borderWidth": 0.5,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 52,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`snapshot 3`] = `
+<View>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "marginBottom": 26.285714285714285,
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderRadius": 27,
+          "elevation": 5,
+          "marginHorizontal": 32,
+          "padding": 36,
+          "shadowColor": "rgba(80, 84, 108, 0.25)",
+          "shadowOffset": Object {
+            "height": 1,
+            "width": 0,
+          },
+          "shadowOpacity": 0.26,
+          "shadowRadius": 5,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProDisplay-Semibold"
+          fontSize={22.5}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProDisplay-Semibold",
+                "fontSize": 22.5,
+              },
+            ]
+          }
+        >
+          Hole
+           
+        </Text>
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+              },
+              Object {
+                "color": "rgb(56, 98, 175)",
+                "fontFamily": "SFProText-Semibold",
+                "fontSize": 21,
+              },
+            ]
+          }
+        >
+          Track Result
+        </Text>
+        <View
+          style={
+            Object {
+              "borderColor": "rgba(166, 166, 167, 0.35)",
+              "borderRadius": 26,
+              "borderWidth": 0.5,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 52,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`snapshot 4`] = `
+<View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginTop": 46,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      color="rgb(0, 0, 0)"
+      fontFamily="SFProDisplay-Bold"
+      fontSize={36}
+      letterSpacing={0.29}
+      style={
+        Array [
+          Object {
+            "color": "rgb(0, 0, 0)",
+            "fontFamily": "SFProDisplay-Bold",
+            "fontSize": 36,
+            "letterSpacing": 0.29,
+          },
+        ]
+      }
+    >
+      Oops!
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "flex-start",
+        "marginLeft": 56,
+        "marginTop": 39.42857142857143,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      color="rgb(0, 0, 0)"
+      fontFamily="SFProText-Regular"
+      fontSize={24}
+      style={
+        Array [
+          Object {
+            "color": "rgb(0, 0, 0)",
+            "fontFamily": "SFProText-Regular",
+            "fontSize": 24,
+            "textAlign": "left",
+          },
+          Object {
+            "color": "rgb(51, 51, 51)",
+            "letterSpacing": 0.28500000000000003,
+            "lineHeight": 36,
+          },
+        ]
+      }
+      textAlign="left"
+    >
+      Sorry, you can not refund tournament
+ticket based on S6M’s
+       
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Regular"
+        fontSize={24}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Regular",
+              "fontSize": 24,
+              "textAlign": "left",
+            },
+            Object {
+              "color": "rgb(51, 51, 51)",
+              "letterSpacing": 0.28500000000000003,
+              "lineHeight": 36,
+              "textDecorationLine": "underline",
+            },
+          ]
+        }
+        textAlign="left"
+      >
+        Terms of refunds
+      </Text>
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignSelf": "center",
+        "height": 72.28571428571428,
+        "marginHorizontal": 32,
+        "marginTop": 26.285714285714285,
+        "width": 618,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "rgb(56, 98, 175)",
+          "borderColor": "rgba(14, 12, 29, 0.09)",
+          "borderRadius": 36.14285714285714,
+          "borderWidth": 1.5,
+          "flexDirection": "row",
+          "height": 72.28571428571428,
+          "justifyContent": "space-between",
+          "marginTop": 19.714285714285715,
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        style={
+          Array [
+            Object {},
+            Object {
+              "height": 30,
+              "marginLeft": 30,
+              "width": 30,
+            },
+            Object {},
+          ]
+        }
+      />
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Regular"
+        fontSize={24}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Regular",
+              "fontSize": 24,
+            },
+            Object {
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "SFProDisplay-Semibold",
+              "fontSize": 25.5,
+            },
+            Object {},
+          ]
+        }
+      >
+        Got It
+      </Text>
+      <View
+        style={
+          Object {
+            "height": 30,
+            "marginLeft": 30,
+            "width": 30,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+              },
+              Object {
+                "color": "rgb(255, 255, 255)",
+                "fontFamily": "SFProDisplay-Semibold",
+                "fontSize": 25.5,
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`snapshot 5`] = `
+<View>
+  <Image
+    resizeMode="contain"
+    source={
+      Object {
+        "testUri": "../../../src/assets/images/plane.png",
+      }
+    }
+    style={
+      Array [
+        Object {},
+        Object {
+          "alignSelf": "center",
+          "height": 113.35714285714285,
+          "marginTop": 85.42857142857143,
+          "width": 113.35714285714285,
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginTop": 62.42857142857142,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      color="rgb(0, 0, 0)"
+      fontFamily="SFProDisplay-Bold"
+      fontSize={36}
+      letterSpacing={0.29}
+      style={
+        Array [
+          Object {
+            "color": "rgb(0, 0, 0)",
+            "fontFamily": "SFProDisplay-Bold",
+            "fontSize": 36,
+            "letterSpacing": 0.29,
+          },
+        ]
+      }
+    >
+      sent
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginHorizontal": 56,
+        "marginTop": 39.42857142857143,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      color="rgb(0, 0, 0)"
+      fontFamily="SFProText-Regular"
+      fontSize={24}
+      style={
+        Array [
+          Object {
+            "color": "rgb(0, 0, 0)",
+            "fontFamily": "SFProText-Regular",
+            "fontSize": 24,
+            "textAlign": "left",
+          },
+          Object {
+            "color": "rgb(51, 51, 51)",
+            "letterSpacing": 0.28500000000000003,
+            "lineHeight": 36,
+          },
+        ]
+      }
+      textAlign="left"
+    >
+      Your request successfully sent
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignSelf": "center",
+        "height": 72.28571428571428,
+        "marginHorizontal": 32,
+        "marginTop": 87.07142857142857,
+        "width": 618,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "rgb(56, 98, 175)",
+          "borderColor": "rgba(14, 12, 29, 0.09)",
+          "borderRadius": 36.14285714285714,
+          "borderWidth": 1.5,
+          "flexDirection": "row",
+          "height": 72.28571428571428,
+          "justifyContent": "space-between",
+          "marginTop": 19.714285714285715,
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        style={
+          Array [
+            Object {},
+            Object {
+              "height": 30,
+              "marginLeft": 30,
+              "width": 30,
+            },
+            Object {},
+          ]
+        }
+      />
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Regular"
+        fontSize={24}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Regular",
+              "fontSize": 24,
+            },
+            Object {
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "SFProDisplay-Semibold",
+              "fontSize": 25.5,
+            },
+            Object {},
+          ]
+        }
+      >
+        Got It
+      </Text>
+      <View
+        style={
+          Object {
+            "height": 30,
+            "marginLeft": 30,
+            "width": 30,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+              },
+              Object {
+                "color": "rgb(255, 255, 255)",
+                "fontFamily": "SFProDisplay-Semibold",
+                "fontSize": 25.5,
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`snapshot 6`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "rgb(255, 255, 255)",
+      "flex": 1,
+      "paddingHorizontal": 36,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "marginTop": 39.42857142857143,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Regular"
+        fontSize={24}
+        letterSpacing={0.19}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Regular",
+              "fontSize": 24,
+              "letterSpacing": 0.19,
+            },
+          ]
+        }
+      >
+        Status
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderColor": "rgba(151, 151, 151, 0.13)",
+          "borderStyle": "dashed",
+          "borderWidth": 1,
+          "flex": 1,
+          "marginHorizontal": 2,
+          "marginTop": 24.642857142857142,
+        }
+      }
+    />
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+          ]
+        }
+      >
+        Professional
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Regular"
+        fontSize={24}
+        letterSpacing={0.19}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Regular",
+              "fontSize": 24,
+              "letterSpacing": 0.19,
+            },
+          ]
+        }
+      >
+        Type
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderColor": "rgba(151, 151, 151, 0.13)",
+          "borderStyle": "dashed",
+          "borderWidth": 1,
+          "flex": 1,
+          "marginHorizontal": 2,
+          "marginTop": 24.642857142857142,
+        }
+      }
+    />
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+          ]
+        }
+      >
+        Tournament
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Regular"
+        fontSize={24}
+        letterSpacing={0.19}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Regular",
+              "fontSize": 24,
+              "letterSpacing": 0.19,
+            },
+          ]
+        }
+      >
+        Field Size
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderColor": "rgba(151, 151, 151, 0.13)",
+          "borderStyle": "dashed",
+          "borderWidth": 1,
+          "flex": 1,
+          "marginHorizontal": 2,
+          "marginTop": 24.642857142857142,
+        }
+      }
+    />
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+          ]
+        }
+      >
+        64 Players
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Regular"
+        fontSize={24}
+        letterSpacing={0.19}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Regular",
+              "fontSize": 24,
+              "letterSpacing": 0.19,
+            },
+          ]
+        }
+      >
+        Gender
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderColor": "rgba(151, 151, 151, 0.13)",
+          "borderStyle": "dashed",
+          "borderWidth": 1,
+          "flex": 1,
+          "marginHorizontal": 2,
+          "marginTop": 24.642857142857142,
+        }
+      }
+    />
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+          ]
+        }
+      >
+        Ladies
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Regular"
+        fontSize={24}
+        letterSpacing={0.19}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Regular",
+              "fontSize": 24,
+              "letterSpacing": 0.19,
+            },
+          ]
+        }
+      >
+        Age Group
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderColor": "rgba(151, 151, 151, 0.13)",
+          "borderStyle": "dashed",
+          "borderWidth": 1,
+          "flex": 1,
+          "marginHorizontal": 2,
+          "marginTop": 24.642857142857142,
+        }
+      }
+    />
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+          ]
+        }
+      >
+        AK 65
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Regular"
+        fontSize={24}
+        letterSpacing={0.19}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Regular",
+              "fontSize": 24,
+              "letterSpacing": 0.19,
+            },
+          ]
+        }
+      >
+        Round
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderColor": "rgba(151, 151, 151, 0.13)",
+          "borderStyle": "dashed",
+          "borderWidth": 1,
+          "flex": 1,
+          "marginHorizontal": 2,
+          "marginTop": 24.642857142857142,
+        }
+      }
+    />
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+          ]
+        }
+      >
+        1
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Regular"
+        fontSize={24}
+        letterSpacing={0.19}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Regular",
+              "fontSize": 24,
+              "letterSpacing": 0.19,
+            },
+          ]
+        }
+      >
+        Registration Deadline
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderColor": "rgba(151, 151, 151, 0.13)",
+          "borderStyle": "dashed",
+          "borderWidth": 1,
+          "flex": 1,
+          "marginHorizontal": 2,
+          "marginTop": 24.642857142857142,
+        }
+      }
+    />
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+          ]
+        }
+      >
+        14 Oct
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Regular"
+        fontSize={24}
+        letterSpacing={0.19}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Regular",
+              "fontSize": 24,
+              "letterSpacing": 0.19,
+            },
+          ]
+        }
+      >
+        Entrance Fee
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderColor": "rgba(151, 151, 151, 0.13)",
+          "borderStyle": "dashed",
+          "borderWidth": 1,
+          "flex": 1,
+          "marginHorizontal": 2,
+          "marginTop": 24.642857142857142,
+        }
+      }
+    />
+    <View>
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+          ]
+        }
+      >
+        €25.00
+      </Text>
+    </View>
+  </View>
+</View>
+`;

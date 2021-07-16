@@ -1,0 +1,2399 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <RCTScrollView
+    data={
+      Array [
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://yt3.ggpht.com/ytc/AAUvwngZGK-uAtLXmf6yMxvUQA7y_DOfEMbAOZELuJ1Tgw=s900-c-k-c0x00ffffff-no-rj",
+            "name": "golf.com",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "1",
+          "image": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+          "title": "Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-w",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://images.squarespace-cdn.com/content/v1/58ed33aeb8a79b05bed202aa/1512041786521-VFZY1K094OP4R9YFFMQ8/ke17ZwdGBToddI8pDm48kGeCIRMXF3Qq9kwX8bNTobAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2di5klK6jTFdR6naIXxvIPqcOdyyomiVdaYENiT7YiLNB7zs2yPjc1ECvpa5Zm_kMqw/The+loop+logo+white+background.jpg",
+            "name": "the loop",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "2",
+          "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+          "title": "How a winning pro’s divisive wardrobe choice generated more buzz than his How a winning pro’s divisive wardrobe choice generated more buzz than his",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png",
+            "name": "golf.com",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "3",
+          "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+          "title": "Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-way playoff to win the",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://yt3.ggpht.com/ytc/AAUvwngZGK-uAtLXmf6yMxvUQA7y_DOfEMbAOZELuJ1Tgw=s900-c-k-c0x00ffffff-no-rj",
+            "name": "golf.com",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "1",
+          "image": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+          "title": "Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-w",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://images.squarespace-cdn.com/content/v1/58ed33aeb8a79b05bed202aa/1512041786521-VFZY1K094OP4R9YFFMQ8/ke17ZwdGBToddI8pDm48kGeCIRMXF3Qq9kwX8bNTobAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2di5klK6jTFdR6naIXxvIPqcOdyyomiVdaYENiT7YiLNB7zs2yPjc1ECvpa5Zm_kMqw/The+loop+logo+white+background.jpg",
+            "name": "the loop",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "2",
+          "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+          "title": "How a winning pro’s divisive wardrobe choice generated more buzz than his How a winning pro’s divisive wardrobe choice generated more buzz than his",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png",
+            "name": "golf.com",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "3",
+          "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+          "title": "Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-way playoff to win the",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://yt3.ggpht.com/ytc/AAUvwngZGK-uAtLXmf6yMxvUQA7y_DOfEMbAOZELuJ1Tgw=s900-c-k-c0x00ffffff-no-rj",
+            "name": "golf.com",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "1",
+          "image": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+          "title": "Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-w",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://images.squarespace-cdn.com/content/v1/58ed33aeb8a79b05bed202aa/1512041786521-VFZY1K094OP4R9YFFMQ8/ke17ZwdGBToddI8pDm48kGeCIRMXF3Qq9kwX8bNTobAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2di5klK6jTFdR6naIXxvIPqcOdyyomiVdaYENiT7YiLNB7zs2yPjc1ECvpa5Zm_kMqw/The+loop+logo+white+background.jpg",
+            "name": "the loop",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "2",
+          "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+          "title": "How a winning pro’s divisive wardrobe choice generated more buzz than his How a winning pro’s divisive wardrobe choice generated more buzz than his",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png",
+            "name": "golf.com",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "3",
+          "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+          "title": "Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-way playoff to win the",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://yt3.ggpht.com/ytc/AAUvwngZGK-uAtLXmf6yMxvUQA7y_DOfEMbAOZELuJ1Tgw=s900-c-k-c0x00ffffff-no-rj",
+            "name": "golf.com",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "1",
+          "image": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+          "title": "Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-w",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://images.squarespace-cdn.com/content/v1/58ed33aeb8a79b05bed202aa/1512041786521-VFZY1K094OP4R9YFFMQ8/ke17ZwdGBToddI8pDm48kGeCIRMXF3Qq9kwX8bNTobAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2di5klK6jTFdR6naIXxvIPqcOdyyomiVdaYENiT7YiLNB7zs2yPjc1ECvpa5Zm_kMqw/The+loop+logo+white+background.jpg",
+            "name": "the loop",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "2",
+          "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+          "title": "How a winning pro’s divisive wardrobe choice generated more buzz than his How a winning pro’s divisive wardrobe choice generated more buzz than his",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png",
+            "name": "golf.com",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "3",
+          "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+          "title": "Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-way playoff to win the",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://yt3.ggpht.com/ytc/AAUvwngZGK-uAtLXmf6yMxvUQA7y_DOfEMbAOZELuJ1Tgw=s900-c-k-c0x00ffffff-no-rj",
+            "name": "golf.com",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "1",
+          "image": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+          "title": "Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-w",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://images.squarespace-cdn.com/content/v1/58ed33aeb8a79b05bed202aa/1512041786521-VFZY1K094OP4R9YFFMQ8/ke17ZwdGBToddI8pDm48kGeCIRMXF3Qq9kwX8bNTobAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2di5klK6jTFdR6naIXxvIPqcOdyyomiVdaYENiT7YiLNB7zs2yPjc1ECvpa5Zm_kMqw/The+loop+logo+white+background.jpg",
+            "name": "the loop",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "2",
+          "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+          "title": "How a winning pro’s divisive wardrobe choice generated more buzz than his How a winning pro’s divisive wardrobe choice generated more buzz than his",
+        },
+        Object {
+          "author": Object {
+            "by": "Tyrrell Hatton",
+            "logo": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png",
+            "name": "golf.com",
+          },
+          "createdDate": "7 min ago",
+          "description": "Tyrrell Hatton shot a 5-under 67 on Sunday to win the BMW PGA Championship, one of the premier events on the European Tour.
+
+ Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. The victory came on a Wentworth Golf Club course that he visited as a kid. Good stuff! 
+
+ WHILE HE WORE A HOODIE. Midway through the round, he dropped into a tie for the lead, then peeled off four birdies on the back nine to pull away. WHILE HE WORE A HOODIE. The victory came on a Wentworth Golf Club course that he visited as a kid. WHILE HE WORE A HOODIE.",
+          "id": "3",
+          "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+          "title": "Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-way playoff to win the",
+        },
+      ]
+    }
+    disableVirtualization={false}
+    getItem={[Function]}
+    getItemCount={[Function]}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={10}
+    onContentSizeChange={[Function]}
+    onEndReachedThreshold={2}
+    onLayout={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={Array []}
+    updateCellsBatchingPeriod={50}
+    viewabilityConfigCallbackPairs={Array []}
+    windowSize={21}
+  >
+    <View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 24,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "rgb(255, 255, 255)",
+                "elevation": 17,
+                "flex": 1,
+                "opacity": 1,
+                "padding": 20,
+                "shadowColor": "rgba(14, 12, 29, 1)",
+                "shadowOffset": Object {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.09,
+                "shadowRadius": 17,
+              }
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "overflow": "hidden",
+                  },
+                  Object {
+                    "borderRadius": 7.5,
+                    "height": 290.7857142857143,
+                    "marginBottom": 15,
+                  },
+                ]
+              }
+            >
+              <FastImageView
+                resizeMode="cover"
+                source={
+                  Object {
+                    "uri": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                  }
+                }
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "marginVertical": 26.285714285714285,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                numberOfLines={2}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-w
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "borderColor": "rgba(0, 0, 0, 0.2)",
+                      "borderRadius": 29.57142857142857,
+                      "borderWidth": 0.5,
+                      "height": 59.14285714285714,
+                      "marginRight": 18,
+                      "overflow": "hidden",
+                      "width": 59.14285714285714,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "overflow": "hidden",
+                        },
+                        Object {
+                          "flex": 1,
+                        },
+                      ]
+                    }
+                  >
+                    <FastImageView
+                      resizeMode="contain"
+                      source={
+                        Object {
+                          "uri": "https://yt3.ggpht.com/ytc/AAUvwngZGK-uAtLXmf6yMxvUQA7y_DOfEMbAOZELuJ1Tgw=s900-c-k-c0x00ffffff-no-rj",
+                        }
+                      }
+                      style={
+                        Object {
+                          "bottom": 0,
+                          "left": 0,
+                          "position": "absolute",
+                          "right": 0,
+                          "top": 0,
+                        }
+                      }
+                    />
+                  </View>
+                </View>
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  golf.com
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "flex-end",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Regular"
+                  fontSize={12}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Regular",
+                        "fontSize": 12,
+                        "letterSpacing": 0.14,
+                      },
+                      Object {
+                        "color": "rgb(117, 117, 117)",
+                      },
+                    ]
+                  }
+                >
+                  7 min ago
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 24,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "rgb(255, 255, 255)",
+                "elevation": 17,
+                "flex": 1,
+                "opacity": 1,
+                "padding": 20,
+                "shadowColor": "rgba(14, 12, 29, 1)",
+                "shadowOffset": Object {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.09,
+                "shadowRadius": 17,
+              }
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "overflow": "hidden",
+                  },
+                  Object {
+                    "borderRadius": 7.5,
+                    "height": 290.7857142857143,
+                    "marginBottom": 15,
+                  },
+                ]
+              }
+            >
+              <FastImageView
+                resizeMode="cover"
+                source={
+                  Object {
+                    "uri": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                  }
+                }
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "marginVertical": 26.285714285714285,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                numberOfLines={2}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                How a winning pro’s divisive wardrobe choice generated more buzz than his How a winning pro’s divisive wardrobe choice generated more buzz than his
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "borderColor": "rgba(0, 0, 0, 0.2)",
+                      "borderRadius": 29.57142857142857,
+                      "borderWidth": 0.5,
+                      "height": 59.14285714285714,
+                      "marginRight": 18,
+                      "overflow": "hidden",
+                      "width": 59.14285714285714,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "overflow": "hidden",
+                        },
+                        Object {
+                          "flex": 1,
+                        },
+                      ]
+                    }
+                  >
+                    <FastImageView
+                      resizeMode="contain"
+                      source={
+                        Object {
+                          "uri": "https://images.squarespace-cdn.com/content/v1/58ed33aeb8a79b05bed202aa/1512041786521-VFZY1K094OP4R9YFFMQ8/ke17ZwdGBToddI8pDm48kGeCIRMXF3Qq9kwX8bNTobAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2di5klK6jTFdR6naIXxvIPqcOdyyomiVdaYENiT7YiLNB7zs2yPjc1ECvpa5Zm_kMqw/The+loop+logo+white+background.jpg",
+                        }
+                      }
+                      style={
+                        Object {
+                          "bottom": 0,
+                          "left": 0,
+                          "position": "absolute",
+                          "right": 0,
+                          "top": 0,
+                        }
+                      }
+                    />
+                  </View>
+                </View>
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  the loop
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "flex-end",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Regular"
+                  fontSize={12}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Regular",
+                        "fontSize": 12,
+                        "letterSpacing": 0.14,
+                      },
+                      Object {
+                        "color": "rgb(117, 117, 117)",
+                      },
+                    ]
+                  }
+                >
+                  7 min ago
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 24,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "rgb(255, 255, 255)",
+                "elevation": 17,
+                "flex": 1,
+                "opacity": 1,
+                "padding": 20,
+                "shadowColor": "rgba(14, 12, 29, 1)",
+                "shadowOffset": Object {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.09,
+                "shadowRadius": 17,
+              }
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "overflow": "hidden",
+                  },
+                  Object {
+                    "borderRadius": 7.5,
+                    "height": 290.7857142857143,
+                    "marginBottom": 15,
+                  },
+                ]
+              }
+            >
+              <FastImageView
+                resizeMode="cover"
+                source={
+                  Object {
+                    "uri": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                  }
+                }
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "marginVertical": 26.285714285714285,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                numberOfLines={2}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-way playoff to win the
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "borderColor": "rgba(0, 0, 0, 0.2)",
+                      "borderRadius": 29.57142857142857,
+                      "borderWidth": 0.5,
+                      "height": 59.14285714285714,
+                      "marginRight": 18,
+                      "overflow": "hidden",
+                      "width": 59.14285714285714,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "overflow": "hidden",
+                        },
+                        Object {
+                          "flex": 1,
+                        },
+                      ]
+                    }
+                  >
+                    <FastImageView
+                      resizeMode="contain"
+                      source={
+                        Object {
+                          "uri": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png",
+                        }
+                      }
+                      style={
+                        Object {
+                          "bottom": 0,
+                          "left": 0,
+                          "position": "absolute",
+                          "right": 0,
+                          "top": 0,
+                        }
+                      }
+                    />
+                  </View>
+                </View>
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  golf.com
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "flex-end",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Regular"
+                  fontSize={12}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Regular",
+                        "fontSize": 12,
+                        "letterSpacing": 0.14,
+                      },
+                      Object {
+                        "color": "rgb(117, 117, 117)",
+                      },
+                    ]
+                  }
+                >
+                  7 min ago
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 24,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "rgb(255, 255, 255)",
+                "elevation": 17,
+                "flex": 1,
+                "opacity": 1,
+                "padding": 20,
+                "shadowColor": "rgba(14, 12, 29, 1)",
+                "shadowOffset": Object {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.09,
+                "shadowRadius": 17,
+              }
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "overflow": "hidden",
+                  },
+                  Object {
+                    "borderRadius": 7.5,
+                    "height": 290.7857142857143,
+                    "marginBottom": 15,
+                  },
+                ]
+              }
+            >
+              <FastImageView
+                resizeMode="cover"
+                source={
+                  Object {
+                    "uri": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                  }
+                }
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "marginVertical": 26.285714285714285,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                numberOfLines={2}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-w
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "borderColor": "rgba(0, 0, 0, 0.2)",
+                      "borderRadius": 29.57142857142857,
+                      "borderWidth": 0.5,
+                      "height": 59.14285714285714,
+                      "marginRight": 18,
+                      "overflow": "hidden",
+                      "width": 59.14285714285714,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "overflow": "hidden",
+                        },
+                        Object {
+                          "flex": 1,
+                        },
+                      ]
+                    }
+                  >
+                    <FastImageView
+                      resizeMode="contain"
+                      source={
+                        Object {
+                          "uri": "https://yt3.ggpht.com/ytc/AAUvwngZGK-uAtLXmf6yMxvUQA7y_DOfEMbAOZELuJ1Tgw=s900-c-k-c0x00ffffff-no-rj",
+                        }
+                      }
+                      style={
+                        Object {
+                          "bottom": 0,
+                          "left": 0,
+                          "position": "absolute",
+                          "right": 0,
+                          "top": 0,
+                        }
+                      }
+                    />
+                  </View>
+                </View>
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  golf.com
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "flex-end",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Regular"
+                  fontSize={12}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Regular",
+                        "fontSize": 12,
+                        "letterSpacing": 0.14,
+                      },
+                      Object {
+                        "color": "rgb(117, 117, 117)",
+                      },
+                    ]
+                  }
+                >
+                  7 min ago
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 24,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "rgb(255, 255, 255)",
+                "elevation": 17,
+                "flex": 1,
+                "opacity": 1,
+                "padding": 20,
+                "shadowColor": "rgba(14, 12, 29, 1)",
+                "shadowOffset": Object {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.09,
+                "shadowRadius": 17,
+              }
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "overflow": "hidden",
+                  },
+                  Object {
+                    "borderRadius": 7.5,
+                    "height": 290.7857142857143,
+                    "marginBottom": 15,
+                  },
+                ]
+              }
+            >
+              <FastImageView
+                resizeMode="cover"
+                source={
+                  Object {
+                    "uri": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                  }
+                }
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "marginVertical": 26.285714285714285,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                numberOfLines={2}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                How a winning pro’s divisive wardrobe choice generated more buzz than his How a winning pro’s divisive wardrobe choice generated more buzz than his
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "borderColor": "rgba(0, 0, 0, 0.2)",
+                      "borderRadius": 29.57142857142857,
+                      "borderWidth": 0.5,
+                      "height": 59.14285714285714,
+                      "marginRight": 18,
+                      "overflow": "hidden",
+                      "width": 59.14285714285714,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "overflow": "hidden",
+                        },
+                        Object {
+                          "flex": 1,
+                        },
+                      ]
+                    }
+                  >
+                    <FastImageView
+                      resizeMode="contain"
+                      source={
+                        Object {
+                          "uri": "https://images.squarespace-cdn.com/content/v1/58ed33aeb8a79b05bed202aa/1512041786521-VFZY1K094OP4R9YFFMQ8/ke17ZwdGBToddI8pDm48kGeCIRMXF3Qq9kwX8bNTobAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2di5klK6jTFdR6naIXxvIPqcOdyyomiVdaYENiT7YiLNB7zs2yPjc1ECvpa5Zm_kMqw/The+loop+logo+white+background.jpg",
+                        }
+                      }
+                      style={
+                        Object {
+                          "bottom": 0,
+                          "left": 0,
+                          "position": "absolute",
+                          "right": 0,
+                          "top": 0,
+                        }
+                      }
+                    />
+                  </View>
+                </View>
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  the loop
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "flex-end",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Regular"
+                  fontSize={12}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Regular",
+                        "fontSize": 12,
+                        "letterSpacing": 0.14,
+                      },
+                      Object {
+                        "color": "rgb(117, 117, 117)",
+                      },
+                    ]
+                  }
+                >
+                  7 min ago
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 24,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "rgb(255, 255, 255)",
+                "elevation": 17,
+                "flex": 1,
+                "opacity": 1,
+                "padding": 20,
+                "shadowColor": "rgba(14, 12, 29, 1)",
+                "shadowOffset": Object {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.09,
+                "shadowRadius": 17,
+              }
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "overflow": "hidden",
+                  },
+                  Object {
+                    "borderRadius": 7.5,
+                    "height": 290.7857142857143,
+                    "marginBottom": 15,
+                  },
+                ]
+              }
+            >
+              <FastImageView
+                resizeMode="cover"
+                source={
+                  Object {
+                    "uri": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                  }
+                }
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "marginVertical": 26.285714285714285,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                numberOfLines={2}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-way playoff to win the
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "borderColor": "rgba(0, 0, 0, 0.2)",
+                      "borderRadius": 29.57142857142857,
+                      "borderWidth": 0.5,
+                      "height": 59.14285714285714,
+                      "marginRight": 18,
+                      "overflow": "hidden",
+                      "width": 59.14285714285714,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "overflow": "hidden",
+                        },
+                        Object {
+                          "flex": 1,
+                        },
+                      ]
+                    }
+                  >
+                    <FastImageView
+                      resizeMode="contain"
+                      source={
+                        Object {
+                          "uri": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png",
+                        }
+                      }
+                      style={
+                        Object {
+                          "bottom": 0,
+                          "left": 0,
+                          "position": "absolute",
+                          "right": 0,
+                          "top": 0,
+                        }
+                      }
+                    />
+                  </View>
+                </View>
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  golf.com
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "flex-end",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Regular"
+                  fontSize={12}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Regular",
+                        "fontSize": 12,
+                        "letterSpacing": 0.14,
+                      },
+                      Object {
+                        "color": "rgb(117, 117, 117)",
+                      },
+                    ]
+                  }
+                >
+                  7 min ago
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 24,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "rgb(255, 255, 255)",
+                "elevation": 17,
+                "flex": 1,
+                "opacity": 1,
+                "padding": 20,
+                "shadowColor": "rgba(14, 12, 29, 1)",
+                "shadowOffset": Object {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.09,
+                "shadowRadius": 17,
+              }
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "overflow": "hidden",
+                  },
+                  Object {
+                    "borderRadius": 7.5,
+                    "height": 290.7857142857143,
+                    "marginBottom": 15,
+                  },
+                ]
+              }
+            >
+              <FastImageView
+                resizeMode="cover"
+                source={
+                  Object {
+                    "uri": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                  }
+                }
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "marginVertical": 26.285714285714285,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                numberOfLines={2}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-w
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "borderColor": "rgba(0, 0, 0, 0.2)",
+                      "borderRadius": 29.57142857142857,
+                      "borderWidth": 0.5,
+                      "height": 59.14285714285714,
+                      "marginRight": 18,
+                      "overflow": "hidden",
+                      "width": 59.14285714285714,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "overflow": "hidden",
+                        },
+                        Object {
+                          "flex": 1,
+                        },
+                      ]
+                    }
+                  >
+                    <FastImageView
+                      resizeMode="contain"
+                      source={
+                        Object {
+                          "uri": "https://yt3.ggpht.com/ytc/AAUvwngZGK-uAtLXmf6yMxvUQA7y_DOfEMbAOZELuJ1Tgw=s900-c-k-c0x00ffffff-no-rj",
+                        }
+                      }
+                      style={
+                        Object {
+                          "bottom": 0,
+                          "left": 0,
+                          "position": "absolute",
+                          "right": 0,
+                          "top": 0,
+                        }
+                      }
+                    />
+                  </View>
+                </View>
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  golf.com
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "flex-end",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Regular"
+                  fontSize={12}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Regular",
+                        "fontSize": 12,
+                        "letterSpacing": 0.14,
+                      },
+                      Object {
+                        "color": "rgb(117, 117, 117)",
+                      },
+                    ]
+                  }
+                >
+                  7 min ago
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 24,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "rgb(255, 255, 255)",
+                "elevation": 17,
+                "flex": 1,
+                "opacity": 1,
+                "padding": 20,
+                "shadowColor": "rgba(14, 12, 29, 1)",
+                "shadowOffset": Object {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.09,
+                "shadowRadius": 17,
+              }
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "overflow": "hidden",
+                  },
+                  Object {
+                    "borderRadius": 7.5,
+                    "height": 290.7857142857143,
+                    "marginBottom": 15,
+                  },
+                ]
+              }
+            >
+              <FastImageView
+                resizeMode="cover"
+                source={
+                  Object {
+                    "uri": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                  }
+                }
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "marginVertical": 26.285714285714285,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                numberOfLines={2}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                How a winning pro’s divisive wardrobe choice generated more buzz than his How a winning pro’s divisive wardrobe choice generated more buzz than his
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "borderColor": "rgba(0, 0, 0, 0.2)",
+                      "borderRadius": 29.57142857142857,
+                      "borderWidth": 0.5,
+                      "height": 59.14285714285714,
+                      "marginRight": 18,
+                      "overflow": "hidden",
+                      "width": 59.14285714285714,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "overflow": "hidden",
+                        },
+                        Object {
+                          "flex": 1,
+                        },
+                      ]
+                    }
+                  >
+                    <FastImageView
+                      resizeMode="contain"
+                      source={
+                        Object {
+                          "uri": "https://images.squarespace-cdn.com/content/v1/58ed33aeb8a79b05bed202aa/1512041786521-VFZY1K094OP4R9YFFMQ8/ke17ZwdGBToddI8pDm48kGeCIRMXF3Qq9kwX8bNTobAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2di5klK6jTFdR6naIXxvIPqcOdyyomiVdaYENiT7YiLNB7zs2yPjc1ECvpa5Zm_kMqw/The+loop+logo+white+background.jpg",
+                        }
+                      }
+                      style={
+                        Object {
+                          "bottom": 0,
+                          "left": 0,
+                          "position": "absolute",
+                          "right": 0,
+                          "top": 0,
+                        }
+                      }
+                    />
+                  </View>
+                </View>
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  the loop
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "flex-end",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Regular"
+                  fontSize={12}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Regular",
+                        "fontSize": 12,
+                        "letterSpacing": 0.14,
+                      },
+                      Object {
+                        "color": "rgb(117, 117, 117)",
+                      },
+                    ]
+                  }
+                >
+                  7 min ago
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 24,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "rgb(255, 255, 255)",
+                "elevation": 17,
+                "flex": 1,
+                "opacity": 1,
+                "padding": 20,
+                "shadowColor": "rgba(14, 12, 29, 1)",
+                "shadowOffset": Object {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.09,
+                "shadowRadius": 17,
+              }
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "overflow": "hidden",
+                  },
+                  Object {
+                    "borderRadius": 7.5,
+                    "height": 290.7857142857143,
+                    "marginBottom": 15,
+                  },
+                ]
+              }
+            >
+              <FastImageView
+                resizeMode="cover"
+                source={
+                  Object {
+                    "uri": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                  }
+                }
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "marginVertical": 26.285714285714285,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                numberOfLines={2}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-way playoff to win the
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "borderColor": "rgba(0, 0, 0, 0.2)",
+                      "borderRadius": 29.57142857142857,
+                      "borderWidth": 0.5,
+                      "height": 59.14285714285714,
+                      "marginRight": 18,
+                      "overflow": "hidden",
+                      "width": 59.14285714285714,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "overflow": "hidden",
+                        },
+                        Object {
+                          "flex": 1,
+                        },
+                      ]
+                    }
+                  >
+                    <FastImageView
+                      resizeMode="contain"
+                      source={
+                        Object {
+                          "uri": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png",
+                        }
+                      }
+                      style={
+                        Object {
+                          "bottom": 0,
+                          "left": 0,
+                          "position": "absolute",
+                          "right": 0,
+                          "top": 0,
+                        }
+                      }
+                    />
+                  </View>
+                </View>
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  golf.com
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "flex-end",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Regular"
+                  fontSize={12}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Regular",
+                        "fontSize": 12,
+                        "letterSpacing": 0.14,
+                      },
+                      Object {
+                        "color": "rgb(117, 117, 117)",
+                      },
+                    ]
+                  }
+                >
+                  7 min ago
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 24,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "rgb(255, 255, 255)",
+                "elevation": 17,
+                "flex": 1,
+                "opacity": 1,
+                "padding": 20,
+                "shadowColor": "rgba(14, 12, 29, 1)",
+                "shadowOffset": Object {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.09,
+                "shadowRadius": 17,
+              }
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "overflow": "hidden",
+                  },
+                  Object {
+                    "borderRadius": 7.5,
+                    "height": 290.7857142857143,
+                    "marginBottom": 15,
+                  },
+                ]
+              }
+            >
+              <FastImageView
+                resizeMode="cover"
+                source={
+                  Object {
+                    "uri": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                  }
+                }
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "marginVertical": 26.285714285714285,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                numberOfLines={2}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Martin Laird came away victorious in a three-way playoff to win the Martin Laird came away victorious in a three-w
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "borderColor": "rgba(0, 0, 0, 0.2)",
+                      "borderRadius": 29.57142857142857,
+                      "borderWidth": 0.5,
+                      "height": 59.14285714285714,
+                      "marginRight": 18,
+                      "overflow": "hidden",
+                      "width": 59.14285714285714,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "overflow": "hidden",
+                        },
+                        Object {
+                          "flex": 1,
+                        },
+                      ]
+                    }
+                  >
+                    <FastImageView
+                      resizeMode="contain"
+                      source={
+                        Object {
+                          "uri": "https://yt3.ggpht.com/ytc/AAUvwngZGK-uAtLXmf6yMxvUQA7y_DOfEMbAOZELuJ1Tgw=s900-c-k-c0x00ffffff-no-rj",
+                        }
+                      }
+                      style={
+                        Object {
+                          "bottom": 0,
+                          "left": 0,
+                          "position": "absolute",
+                          "right": 0,
+                          "top": 0,
+                        }
+                      }
+                    />
+                  </View>
+                </View>
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  golf.com
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "flex-end",
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Regular"
+                  fontSize={12}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Regular",
+                        "fontSize": 12,
+                        "letterSpacing": 0.14,
+                      },
+                      Object {
+                        "color": "rgb(117, 117, 117)",
+                      },
+                    ]
+                  }
+                >
+                  7 min ago
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 0,
+          }
+        }
+      />
+    </View>
+  </RCTScrollView>
+</View>
+`;

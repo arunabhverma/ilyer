@@ -1,0 +1,5235 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "flex": 1,
+    }
+  }
+>
+  <RCTScrollView
+    contentContainerStyle={
+      Object {
+        "paddingBottom": 49.285714285714285,
+        "paddingHorizontal": 32,
+      }
+    }
+    data={
+      Array [
+        Object {
+          "date": "2021-04-25T06:44:32.713Z",
+          "id": "2",
+          "location": "Shadow Creek Golf Course",
+          "playMode": Object {
+            "description": "Each fourball has two matches. The two winners of each match will face each other in the next round. They will join the two winners of the fourball in front of them. This format will carry on until there is only one player left",
+            "rounds": Array [
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "2 UP",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "04",
+                  },
+                ],
+                "status": "win",
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "PO",
+                    "teamName": "04",
+                  },
+                ],
+                "status": "lost",
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "04",
+                  },
+                ],
+                "status": "ready",
+              },
+              Object {
+                "amount": "450$",
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "04",
+                  },
+                ],
+                "status": "searching",
+              },
+              Object {
+                "amount": "450$",
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "04",
+                  },
+                ],
+                "status": "waiting",
+              },
+            ],
+          },
+          "subTitle": "European Tour, Stroke Play",
+          "time": "10:00 am",
+          "title": "Tournament Super6 150",
+        },
+        Object {
+          "date": "2021-04-24T06:44:32.713Z",
+          "id": "2",
+          "location": "jaipur",
+          "playMode": Object {
+            "description": "Each fourball has two matches. The two winners of each match will face each other in the next round. They will join the two winners of the fourball in front of them. This format will carry on until there is only one player left",
+            "rounds": Array [
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "2 UP",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "win",
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "PO",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "lost",
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "ready",
+              },
+              Object {
+                "amount": "450$",
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "searching",
+              },
+              Object {
+                "amount": "450$",
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "waiting",
+              },
+            ],
+          },
+          "subTitle": "European Tour, Stroke Play",
+          "time": "10:00 am",
+          "title": "Tournament Super6 150",
+        },
+        Object {
+          "date": "2021-04-23T06:44:32.713Z",
+          "id": "2",
+          "location": "Shadow Creek Golf Course",
+          "playMode": Object {
+            "description": "Each fourball has two matches. The two winners of each match will face each other in the next round. They will join the two winners of the fourball in front of them. This format will carry on until there is only one player left",
+            "rounds": Array [
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "2 UP",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "win",
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "PO",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "lost",
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "ready",
+              },
+              Object {
+                "amount": "450$",
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "searching",
+              },
+              Object {
+                "amount": "450$",
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "waiting",
+              },
+            ],
+          },
+          "subTitle": "European Tour, Stroke Play",
+          "time": "10:00 am",
+          "title": "Tournament Super6 150",
+        },
+        Object {
+          "date": "2021-04-22T06:44:32.713Z",
+          "id": "2",
+          "location": "Shadow Creek Golf Course",
+          "playMode": Object {
+            "description": "Each fourball has two matches. The two winners of each match will face each other in the next round. They will join the two winners of the fourball in front of them. This format will carry on until there is only one player left",
+            "rounds": Array [
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "2 UP",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "win",
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "PO",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "lost",
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "ready",
+              },
+              Object {
+                "amount": "450$",
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "searching",
+              },
+              Object {
+                "amount": "450$",
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "waiting",
+              },
+            ],
+          },
+          "subTitle": "European Tour, Stroke Play",
+          "time": "10:00 am",
+          "title": "Tournament Super6 150",
+        },
+        Object {
+          "date": "2021-04-21T06:44:32.713Z",
+          "id": "2",
+          "location": "Shadow Creek Golf Course",
+          "playMode": Object {
+            "description": "Each fourball has two matches. The two winners of each match will face each other in the next round. They will join the two winners of the fourball in front of them. This format will carry on until there is only one player left",
+            "rounds": Array [
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "2 UP",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "win",
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "PO",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "lost",
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "ready",
+              },
+              Object {
+                "amount": "450$",
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "searching",
+              },
+              Object {
+                "amount": "450$",
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "waiting",
+              },
+            ],
+          },
+          "subTitle": "European Tour, Stroke Play",
+          "time": "10:00 am",
+          "title": "Tournament Super6 150",
+        },
+        Object {
+          "date": "2021-04-20T06:44:32.713Z",
+          "id": "1",
+          "location": "Shadow Creek Golf Course",
+          "playMode": Object {
+            "description": "Each fourball has two matches. The two winners of each match will face each other in the next round. They will join the two winners of the fourball in front of them. This format will carry on until there is only one player left",
+            "rounds": Array [
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope1",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                ],
+              },
+            ],
+          },
+          "subTitle": "European Tour, Stroke Play",
+          "time": "10:00 am",
+          "title": "Tournament Super6 150",
+        },
+        Object {
+          "date": "2021-04-19T06:44:32.713Z",
+          "id": "2",
+          "location": "Shadow Creek Golf Course",
+          "playMode": Object {
+            "description": "Each fourball has two matches. The two winners of each match will face each other in the next round. They will join the two winners of the fourball in front of them. This format will carry on until there is only one player left",
+            "rounds": Array [
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "2 UP",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "win",
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "PO",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "lost",
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "ready",
+              },
+              Object {
+                "amount": "450$",
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "searching",
+              },
+              Object {
+                "amount": "450$",
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "waiting",
+              },
+            ],
+          },
+          "subTitle": "European Tour, Stroke Play",
+          "time": "10:00 am",
+          "title": "Tournament Super6 150",
+        },
+        Object {
+          "date": "2021-04-18T06:44:32.713Z",
+          "id": "3",
+          "location": "Shadow Creek Golf Course",
+          "playMode": Object {
+            "description": "Each fourball has two matches. The two winners of each match will face each other in the next round. They will join the two winners of the fourball in front of them. This format will carry on until there is only one player left",
+            "rounds": Array [
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                ],
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                ],
+              },
+            ],
+          },
+          "subTitle": "European Tour, Stroke Play",
+          "time": "10:00 am",
+          "title": "Tournament Super6 150",
+        },
+        Object {
+          "date": "2021-04-17T06:44:32.713Z",
+          "id": "4",
+          "location": "Shadow Creek Golf Course",
+          "playMode": Object {
+            "description": "Each fourball has two matches. The two winners of each match will face each other in the next round. They will join the two winners of the fourball in front of them. This format will carry on until there is only one player left",
+            "rounds": Array [
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                ],
+              },
+            ],
+          },
+          "subTitle": "European Tour, Stroke Play",
+          "time": "10:00 am",
+          "title": "Tournament Super6 150",
+        },
+        Object {
+          "date": "2021-04-16T06:44:32.713Z",
+          "id": "4",
+          "location": "Shadow Creek Golf Course",
+          "playMode": Object {
+            "description": "Each fourball has two matches. The two winners of each match will face each other in the next round. They will join the two winners of the fourball in front of them. This format will carry on until there is only one player left",
+            "rounds": Array [
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                ],
+              },
+            ],
+          },
+          "subTitle": "European Tour, Stroke Play",
+          "time": "10:00 am",
+          "title": "Tournament Super6 150",
+        },
+        Object {
+          "date": "2021-04-15T06:44:32.713Z",
+          "id": "4",
+          "location": "Shadow Creek Golf Course",
+          "playMode": Object {
+            "description": "Each fourball has two matches. The two winners of each match will face each other in the next round. They will join the two winners of the fourball in front of them. This format will carry on until there is only one player left",
+            "rounds": Array [
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope",
+                    "profileImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+                    "teamName": "10",
+                  },
+                ],
+              },
+            ],
+          },
+          "subTitle": "European Tour, Stroke Play",
+          "time": "10:00 am",
+          "title": "Tournament Super6 150",
+        },
+        Object {
+          "date": "2021-04-14T06:44:32.713Z",
+          "id": "4",
+          "location": "Shadow Creek Golf Course",
+          "playMode": Object {
+            "description": "Each fourball has two matches. The two winners of each match will face each other in the next round. They will join the two winners of the fourball in front of them. This format will carry on until there is only one player left",
+            "rounds": Array [
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "2 UP",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "win",
+              },
+              Object {
+                "players": Array [
+                  Object {
+                    "hcp": "25",
+                    "name": "Glenn Castillo",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "teamName": "10",
+                  },
+                  Object {
+                    "hcp": "30",
+                    "name": "Alan Pope2",
+                    "profileImage": "https://golf.com/wp-content/uploads/2020/08/TonyFinauBMW-1024x576.jpg",
+                    "status": "PO",
+                    "teamName": "10",
+                  },
+                ],
+                "status": "lost",
+              },
+            ],
+          },
+          "subTitle": "European Tour, Stroke Play",
+          "time": "10:00 am",
+          "title": "Tournament Super6 150",
+        },
+      ]
+    }
+    disableVirtualization={false}
+    getItem={[Function]}
+    getItemCount={[Function]}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={10}
+    onContentSizeChange={[Function]}
+    onEndReachedThreshold={2}
+    onLayout={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={Array []}
+    updateCellsBatchingPeriod={50}
+    viewabilityConfigCallbackPairs={Array []}
+    windowSize={21}
+  >
+    <View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 39.42857142857143,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginBottom": 26.285714285714285,
+                "marginLeft": 32,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              color="rgb(56, 98, 175)"
+              fontFamily="SFProDisplay-Bold"
+              fontSize={24}
+              letterSpacing={0.29}
+              style={
+                Array [
+                  Object {
+                    "color": "rgb(56, 98, 175)",
+                    "fontFamily": "SFProDisplay-Bold",
+                    "fontSize": 24,
+                    "letterSpacing": 0.29,
+                  },
+                ]
+              }
+            >
+              Sunday
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "borderRadius": 31.5,
+                  "elevation": 10,
+                  "paddingBottom": 27.928571428571427,
+                  "paddingHorizontal": 48,
+                  "paddingTop": 32.857142857142854,
+                  "shadowColor": "rgba(0, 0, 0, 0.3)",
+                  "shadowOffset": Object {
+                    "height": 0,
+                    "width": 0,
+                  },
+                  "shadowOpacity": 0.26,
+                  "shadowRadius": 10,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Tournament Super6 150
+              </Text>
+              <View
+                style={
+                  Object {
+                    "marginTop": 13.142857142857142,
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  European Tour, Stroke Play
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "baseline",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/alarmIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      12:14 pm
+                    </Text>
+                  </View>
+                </View>
+                <Image
+                  resizeMode="contain"
+                  source={
+                    Object {
+                      "testUri": "../../../src/assets/images/s6MLogo.png",
+                    }
+                  }
+                  style={
+                    Array [
+                      Object {},
+                      Object {
+                        "height": 72.28571428571428,
+                        "width": 110,
+                      },
+                    ]
+                  }
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "marginTop": 26.285714285714285,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/locationIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      Shadow Creek Golf Course
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View>
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "rgba(151, 151, 151, 0.13)",
+                      "height": 1.6428571428571428,
+                      "marginBottom": 31.21428571428571,
+                      "marginTop": 36.14285714285714,
+                    }
+                  }
+                />
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(56, 98, 175)"
+                  fontFamily="SFProText-Regular"
+                  fontSize={24}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(56, 98, 175)",
+                        "fontFamily": "SFProText-Regular",
+                        "fontSize": 24,
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                  textAlign="center"
+                >
+                  Register
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 39.42857142857143,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginBottom": 26.285714285714285,
+                "marginLeft": 32,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              color="rgb(56, 98, 175)"
+              fontFamily="SFProDisplay-Bold"
+              fontSize={24}
+              letterSpacing={0.29}
+              style={
+                Array [
+                  Object {
+                    "color": "rgb(56, 98, 175)",
+                    "fontFamily": "SFProDisplay-Bold",
+                    "fontSize": 24,
+                    "letterSpacing": 0.29,
+                  },
+                ]
+              }
+            >
+              Tomorrow
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "borderRadius": 31.5,
+                  "elevation": 10,
+                  "paddingBottom": 27.928571428571427,
+                  "paddingHorizontal": 48,
+                  "paddingTop": 32.857142857142854,
+                  "shadowColor": "rgba(0, 0, 0, 0.3)",
+                  "shadowOffset": Object {
+                    "height": 0,
+                    "width": 0,
+                  },
+                  "shadowOpacity": 0.26,
+                  "shadowRadius": 10,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Tournament Super6 150
+              </Text>
+              <View
+                style={
+                  Object {
+                    "marginTop": 13.142857142857142,
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  European Tour, Stroke Play
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "baseline",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/alarmIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      12:14 pm
+                    </Text>
+                  </View>
+                </View>
+                <Image
+                  resizeMode="contain"
+                  source={
+                    Object {
+                      "testUri": "../../../src/assets/images/s6MLogo.png",
+                    }
+                  }
+                  style={
+                    Array [
+                      Object {},
+                      Object {
+                        "height": 72.28571428571428,
+                        "width": 110,
+                      },
+                    ]
+                  }
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "marginTop": 26.285714285714285,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/locationIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      jaipur
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View>
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "rgba(151, 151, 151, 0.13)",
+                      "height": 1.6428571428571428,
+                      "marginBottom": 31.21428571428571,
+                      "marginTop": 36.14285714285714,
+                    }
+                  }
+                />
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(56, 98, 175)"
+                  fontFamily="SFProText-Regular"
+                  fontSize={24}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(56, 98, 175)",
+                        "fontFamily": "SFProText-Regular",
+                        "fontSize": 24,
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                  textAlign="center"
+                >
+                  Register
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 39.42857142857143,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginBottom": 26.285714285714285,
+                "marginLeft": 32,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              color="rgb(56, 98, 175)"
+              fontFamily="SFProDisplay-Bold"
+              fontSize={24}
+              letterSpacing={0.29}
+              style={
+                Array [
+                  Object {
+                    "color": "rgb(56, 98, 175)",
+                    "fontFamily": "SFProDisplay-Bold",
+                    "fontSize": 24,
+                    "letterSpacing": 0.29,
+                  },
+                ]
+              }
+            >
+              Today
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "borderRadius": 31.5,
+                  "elevation": 10,
+                  "paddingBottom": 27.928571428571427,
+                  "paddingHorizontal": 48,
+                  "paddingTop": 32.857142857142854,
+                  "shadowColor": "rgba(0, 0, 0, 0.3)",
+                  "shadowOffset": Object {
+                    "height": 0,
+                    "width": 0,
+                  },
+                  "shadowOpacity": 0.26,
+                  "shadowRadius": 10,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Tournament Super6 150
+              </Text>
+              <View
+                style={
+                  Object {
+                    "marginTop": 13.142857142857142,
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  European Tour, Stroke Play
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "baseline",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/alarmIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      12:14 pm
+                    </Text>
+                  </View>
+                </View>
+                <Image
+                  resizeMode="contain"
+                  source={
+                    Object {
+                      "testUri": "../../../src/assets/images/s6MLogo.png",
+                    }
+                  }
+                  style={
+                    Array [
+                      Object {},
+                      Object {
+                        "height": 72.28571428571428,
+                        "width": 110,
+                      },
+                    ]
+                  }
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "marginTop": 26.285714285714285,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/locationIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      Shadow Creek Golf Course
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View>
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "rgba(151, 151, 151, 0.13)",
+                      "height": 1.6428571428571428,
+                      "marginBottom": 31.21428571428571,
+                      "marginTop": 36.14285714285714,
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "width": "100%",
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "backgroundColor": "rgb(207, 48, 68)",
+                        "borderRadius": 9,
+                        "height": 9,
+                        "marginRight": 16,
+                        "width": 9,
+                      }
+                    }
+                  />
+                  <Text
+                    allowFontScaling={false}
+                    color="rgb(0, 0, 0)"
+                    fontFamily="SFProText-Bold"
+                    fontSize={18}
+                    letterSpacing={0.14}
+                    style={
+                      Array [
+                        Object {
+                          "color": "rgb(0, 0, 0)",
+                          "fontFamily": "SFProText-Bold",
+                          "fontSize": 18,
+                          "letterSpacing": 0.14,
+                        },
+                      ]
+                    }
+                  >
+                    LIVE SCORING
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 39.42857142857143,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginBottom": 26.285714285714285,
+                "marginLeft": 32,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              color="rgb(56, 98, 175)"
+              fontFamily="SFProDisplay-Bold"
+              fontSize={24}
+              letterSpacing={0.29}
+              style={
+                Array [
+                  Object {
+                    "color": "rgb(56, 98, 175)",
+                    "fontFamily": "SFProDisplay-Bold",
+                    "fontSize": 24,
+                    "letterSpacing": 0.29,
+                  },
+                ]
+              }
+            >
+              Yesterday
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "borderRadius": 31.5,
+                  "elevation": 10,
+                  "paddingBottom": 27.928571428571427,
+                  "paddingHorizontal": 48,
+                  "paddingTop": 32.857142857142854,
+                  "shadowColor": "rgba(0, 0, 0, 0.3)",
+                  "shadowOffset": Object {
+                    "height": 0,
+                    "width": 0,
+                  },
+                  "shadowOpacity": 0.26,
+                  "shadowRadius": 10,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Tournament Super6 150
+              </Text>
+              <View
+                style={
+                  Object {
+                    "marginTop": 13.142857142857142,
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  European Tour, Stroke Play
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "baseline",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/alarmIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      12:14 pm
+                    </Text>
+                  </View>
+                </View>
+                <Image
+                  resizeMode="contain"
+                  source={
+                    Object {
+                      "testUri": "../../../src/assets/images/s6MLogo.png",
+                    }
+                  }
+                  style={
+                    Array [
+                      Object {},
+                      Object {
+                        "height": 72.28571428571428,
+                        "width": 110,
+                      },
+                    ]
+                  }
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "marginTop": 26.285714285714285,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/locationIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      Shadow Creek Golf Course
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View>
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "rgba(151, 151, 151, 0.13)",
+                      "height": 1.6428571428571428,
+                      "marginBottom": 31.21428571428571,
+                      "marginTop": 36.14285714285714,
+                    }
+                  }
+                />
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Bold"
+                  fontSize={18}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Bold",
+                        "fontSize": 18,
+                        "letterSpacing": 0.14,
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                  textAlign="center"
+                >
+                  SCORING
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 39.42857142857143,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginBottom": 26.285714285714285,
+                "marginLeft": 32,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              color="rgb(56, 98, 175)"
+              fontFamily="SFProDisplay-Bold"
+              fontSize={24}
+              letterSpacing={0.29}
+              style={
+                Array [
+                  Object {
+                    "color": "rgb(56, 98, 175)",
+                    "fontFamily": "SFProDisplay-Bold",
+                    "fontSize": 24,
+                    "letterSpacing": 0.29,
+                  },
+                ]
+              }
+            >
+              Last Wednesday
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "borderRadius": 31.5,
+                  "elevation": 10,
+                  "paddingBottom": 27.928571428571427,
+                  "paddingHorizontal": 48,
+                  "paddingTop": 32.857142857142854,
+                  "shadowColor": "rgba(0, 0, 0, 0.3)",
+                  "shadowOffset": Object {
+                    "height": 0,
+                    "width": 0,
+                  },
+                  "shadowOpacity": 0.26,
+                  "shadowRadius": 10,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Tournament Super6 150
+              </Text>
+              <View
+                style={
+                  Object {
+                    "marginTop": 13.142857142857142,
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  European Tour, Stroke Play
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "baseline",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/alarmIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      12:14 pm
+                    </Text>
+                  </View>
+                </View>
+                <Image
+                  resizeMode="contain"
+                  source={
+                    Object {
+                      "testUri": "../../../src/assets/images/s6MLogo.png",
+                    }
+                  }
+                  style={
+                    Array [
+                      Object {},
+                      Object {
+                        "height": 72.28571428571428,
+                        "width": 110,
+                      },
+                    ]
+                  }
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "marginTop": 26.285714285714285,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/locationIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      Shadow Creek Golf Course
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View>
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "rgba(151, 151, 151, 0.13)",
+                      "height": 1.6428571428571428,
+                      "marginBottom": 31.21428571428571,
+                      "marginTop": 36.14285714285714,
+                    }
+                  }
+                />
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Bold"
+                  fontSize={18}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Bold",
+                        "fontSize": 18,
+                        "letterSpacing": 0.14,
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                  textAlign="center"
+                >
+                  SCORING
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 39.42857142857143,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginBottom": 26.285714285714285,
+                "marginLeft": 32,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              color="rgb(56, 98, 175)"
+              fontFamily="SFProDisplay-Bold"
+              fontSize={24}
+              letterSpacing={0.29}
+              style={
+                Array [
+                  Object {
+                    "color": "rgb(56, 98, 175)",
+                    "fontFamily": "SFProDisplay-Bold",
+                    "fontSize": 24,
+                    "letterSpacing": 0.29,
+                  },
+                ]
+              }
+            >
+              Last Tuesday
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "borderRadius": 31.5,
+                  "elevation": 10,
+                  "paddingBottom": 27.928571428571427,
+                  "paddingHorizontal": 48,
+                  "paddingTop": 32.857142857142854,
+                  "shadowColor": "rgba(0, 0, 0, 0.3)",
+                  "shadowOffset": Object {
+                    "height": 0,
+                    "width": 0,
+                  },
+                  "shadowOpacity": 0.26,
+                  "shadowRadius": 10,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Tournament Super6 150
+              </Text>
+              <View
+                style={
+                  Object {
+                    "marginTop": 13.142857142857142,
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  European Tour, Stroke Play
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "baseline",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/alarmIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      12:14 pm
+                    </Text>
+                  </View>
+                </View>
+                <Image
+                  resizeMode="contain"
+                  source={
+                    Object {
+                      "testUri": "../../../src/assets/images/s6MLogo.png",
+                    }
+                  }
+                  style={
+                    Array [
+                      Object {},
+                      Object {
+                        "height": 72.28571428571428,
+                        "width": 110,
+                      },
+                    ]
+                  }
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "marginTop": 26.285714285714285,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/locationIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      Shadow Creek Golf Course
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View>
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "rgba(151, 151, 151, 0.13)",
+                      "height": 1.6428571428571428,
+                      "marginBottom": 31.21428571428571,
+                      "marginTop": 36.14285714285714,
+                    }
+                  }
+                />
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Bold"
+                  fontSize={18}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Bold",
+                        "fontSize": 18,
+                        "letterSpacing": 0.14,
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                  textAlign="center"
+                >
+                  SCORING
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 39.42857142857143,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginBottom": 26.285714285714285,
+                "marginLeft": 32,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              color="rgb(56, 98, 175)"
+              fontFamily="SFProDisplay-Bold"
+              fontSize={24}
+              letterSpacing={0.29}
+              style={
+                Array [
+                  Object {
+                    "color": "rgb(56, 98, 175)",
+                    "fontFamily": "SFProDisplay-Bold",
+                    "fontSize": 24,
+                    "letterSpacing": 0.29,
+                  },
+                ]
+              }
+            >
+              Last Monday
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "borderRadius": 31.5,
+                  "elevation": 10,
+                  "paddingBottom": 27.928571428571427,
+                  "paddingHorizontal": 48,
+                  "paddingTop": 32.857142857142854,
+                  "shadowColor": "rgba(0, 0, 0, 0.3)",
+                  "shadowOffset": Object {
+                    "height": 0,
+                    "width": 0,
+                  },
+                  "shadowOpacity": 0.26,
+                  "shadowRadius": 10,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Tournament Super6 150
+              </Text>
+              <View
+                style={
+                  Object {
+                    "marginTop": 13.142857142857142,
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  European Tour, Stroke Play
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "baseline",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/alarmIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      12:14 pm
+                    </Text>
+                  </View>
+                </View>
+                <Image
+                  resizeMode="contain"
+                  source={
+                    Object {
+                      "testUri": "../../../src/assets/images/s6MLogo.png",
+                    }
+                  }
+                  style={
+                    Array [
+                      Object {},
+                      Object {
+                        "height": 72.28571428571428,
+                        "width": 110,
+                      },
+                    ]
+                  }
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "marginTop": 26.285714285714285,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/locationIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      Shadow Creek Golf Course
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View>
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "rgba(151, 151, 151, 0.13)",
+                      "height": 1.6428571428571428,
+                      "marginBottom": 31.21428571428571,
+                      "marginTop": 36.14285714285714,
+                    }
+                  }
+                />
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Bold"
+                  fontSize={18}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Bold",
+                        "fontSize": 18,
+                        "letterSpacing": 0.14,
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                  textAlign="center"
+                >
+                  SCORING
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 39.42857142857143,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginBottom": 26.285714285714285,
+                "marginLeft": 32,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              color="rgb(56, 98, 175)"
+              fontFamily="SFProDisplay-Bold"
+              fontSize={24}
+              letterSpacing={0.29}
+              style={
+                Array [
+                  Object {
+                    "color": "rgb(56, 98, 175)",
+                    "fontFamily": "SFProDisplay-Bold",
+                    "fontSize": 24,
+                    "letterSpacing": 0.29,
+                  },
+                ]
+              }
+            >
+              Last Sunday
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "borderRadius": 31.5,
+                  "elevation": 10,
+                  "paddingBottom": 27.928571428571427,
+                  "paddingHorizontal": 48,
+                  "paddingTop": 32.857142857142854,
+                  "shadowColor": "rgba(0, 0, 0, 0.3)",
+                  "shadowOffset": Object {
+                    "height": 0,
+                    "width": 0,
+                  },
+                  "shadowOpacity": 0.26,
+                  "shadowRadius": 10,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Tournament Super6 150
+              </Text>
+              <View
+                style={
+                  Object {
+                    "marginTop": 13.142857142857142,
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  European Tour, Stroke Play
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "baseline",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/alarmIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      12:14 pm
+                    </Text>
+                  </View>
+                </View>
+                <Image
+                  resizeMode="contain"
+                  source={
+                    Object {
+                      "testUri": "../../../src/assets/images/s6MLogo.png",
+                    }
+                  }
+                  style={
+                    Array [
+                      Object {},
+                      Object {
+                        "height": 72.28571428571428,
+                        "width": 110,
+                      },
+                    ]
+                  }
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "marginTop": 26.285714285714285,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/locationIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      Shadow Creek Golf Course
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View>
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "rgba(151, 151, 151, 0.13)",
+                      "height": 1.6428571428571428,
+                      "marginBottom": 31.21428571428571,
+                      "marginTop": 36.14285714285714,
+                    }
+                  }
+                />
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Bold"
+                  fontSize={18}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Bold",
+                        "fontSize": 18,
+                        "letterSpacing": 0.14,
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                  textAlign="center"
+                >
+                  SCORING
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 39.42857142857143,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginBottom": 26.285714285714285,
+                "marginLeft": 32,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              color="rgb(56, 98, 175)"
+              fontFamily="SFProDisplay-Bold"
+              fontSize={24}
+              letterSpacing={0.29}
+              style={
+                Array [
+                  Object {
+                    "color": "rgb(56, 98, 175)",
+                    "fontFamily": "SFProDisplay-Bold",
+                    "fontSize": 24,
+                    "letterSpacing": 0.29,
+                  },
+                ]
+              }
+            >
+              Last Saturday
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "borderRadius": 31.5,
+                  "elevation": 10,
+                  "paddingBottom": 27.928571428571427,
+                  "paddingHorizontal": 48,
+                  "paddingTop": 32.857142857142854,
+                  "shadowColor": "rgba(0, 0, 0, 0.3)",
+                  "shadowOffset": Object {
+                    "height": 0,
+                    "width": 0,
+                  },
+                  "shadowOpacity": 0.26,
+                  "shadowRadius": 10,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Tournament Super6 150
+              </Text>
+              <View
+                style={
+                  Object {
+                    "marginTop": 13.142857142857142,
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  European Tour, Stroke Play
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "baseline",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/alarmIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      12:14 pm
+                    </Text>
+                  </View>
+                </View>
+                <Image
+                  resizeMode="contain"
+                  source={
+                    Object {
+                      "testUri": "../../../src/assets/images/s6MLogo.png",
+                    }
+                  }
+                  style={
+                    Array [
+                      Object {},
+                      Object {
+                        "height": 72.28571428571428,
+                        "width": 110,
+                      },
+                    ]
+                  }
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "marginTop": 26.285714285714285,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/locationIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      Shadow Creek Golf Course
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View>
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "rgba(151, 151, 151, 0.13)",
+                      "height": 1.6428571428571428,
+                      "marginBottom": 31.21428571428571,
+                      "marginTop": 36.14285714285714,
+                    }
+                  }
+                />
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Bold"
+                  fontSize={18}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Bold",
+                        "fontSize": 18,
+                        "letterSpacing": 0.14,
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                  textAlign="center"
+                >
+                  SCORING
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "marginTop": 39.42857142857143,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginBottom": 26.285714285714285,
+                "marginLeft": 32,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              color="rgb(56, 98, 175)"
+              fontFamily="SFProDisplay-Bold"
+              fontSize={24}
+              letterSpacing={0.29}
+              style={
+                Array [
+                  Object {
+                    "color": "rgb(56, 98, 175)",
+                    "fontFamily": "SFProDisplay-Bold",
+                    "fontSize": 24,
+                    "letterSpacing": 0.29,
+                  },
+                ]
+              }
+            >
+              7 days ago
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "borderRadius": 31.5,
+                  "elevation": 10,
+                  "paddingBottom": 27.928571428571427,
+                  "paddingHorizontal": 48,
+                  "paddingTop": 32.857142857142854,
+                  "shadowColor": "rgba(0, 0, 0, 0.3)",
+                  "shadowOffset": Object {
+                    "height": 0,
+                    "width": 0,
+                  },
+                  "shadowOpacity": 0.26,
+                  "shadowRadius": 10,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                color="rgb(0, 0, 0)"
+                fontFamily="SFProDisplay-Bold"
+                fontSize={28.5}
+                letterSpacing={0.29}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgb(0, 0, 0)",
+                      "fontFamily": "SFProDisplay-Bold",
+                      "fontSize": 28.5,
+                      "letterSpacing": 0.29,
+                    },
+                  ]
+                }
+              >
+                Tournament Super6 150
+              </Text>
+              <View
+                style={
+                  Object {
+                    "marginTop": 13.142857142857142,
+                  }
+                }
+              >
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Medium"
+                  fontSize={22.5}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Medium",
+                        "fontSize": 22.5,
+                      },
+                    ]
+                  }
+                >
+                  European Tour, Stroke Play
+                </Text>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "baseline",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/alarmIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      12:14 pm
+                    </Text>
+                  </View>
+                </View>
+                <Image
+                  resizeMode="contain"
+                  source={
+                    Object {
+                      "testUri": "../../../src/assets/images/s6MLogo.png",
+                    }
+                  }
+                  style={
+                    Array [
+                      Object {},
+                      Object {
+                        "height": 72.28571428571428,
+                        "width": 110,
+                      },
+                    ]
+                  }
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "marginTop": 26.285714285714285,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                    }
+                  }
+                >
+                  <Image
+                    resizeMode="contain"
+                    source={
+                      Object {
+                        "testUri": "../../../src/assets/images/locationIcon.png",
+                      }
+                    }
+                    style={
+                      Array [
+                        Object {},
+                        Object {
+                          "height": 26.285714285714285,
+                          "width": 30,
+                        },
+                      ]
+                    }
+                  />
+                  <View
+                    style={
+                      Object {
+                        "marginLeft": 26,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      color="rgb(51, 51, 51)"
+                      fontFamily="SFProText-Regular"
+                      fontSize={24}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgb(51, 51, 51)",
+                            "fontFamily": "SFProText-Regular",
+                            "fontSize": 24,
+                          },
+                        ]
+                      }
+                    >
+                      Shadow Creek Golf Course
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View>
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "rgba(151, 151, 151, 0.13)",
+                      "height": 1.6428571428571428,
+                      "marginBottom": 31.21428571428571,
+                      "marginTop": 36.14285714285714,
+                    }
+                  }
+                />
+                <Text
+                  allowFontScaling={false}
+                  color="rgb(0, 0, 0)"
+                  fontFamily="SFProText-Bold"
+                  fontSize={18}
+                  letterSpacing={0.14}
+                  style={
+                    Array [
+                      Object {
+                        "color": "rgb(0, 0, 0)",
+                        "fontFamily": "SFProText-Bold",
+                        "fontSize": 18,
+                        "letterSpacing": 0.14,
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                  textAlign="center"
+                >
+                  SCORING
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 0,
+          }
+        }
+      />
+    </View>
+  </RCTScrollView>
+</View>
+`;
+
+exports[`snapshot 2`] = `
+<View
+  style={
+    Object {
+      "marginTop": 52.57142857142857,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 65.71428571428571,
+        "marginBottom": 13.142857142857142,
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "width": 280,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          letterSpacing={0.19}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+                "letterSpacing": 0.19,
+              },
+              Object {
+                "marginBottom": 13.142857142857142,
+              },
+            ]
+          }
+        >
+          Winner
+        </Text>
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+              },
+              Object {
+                "fontSize": 15,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-start",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            letterSpacing={0.19}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                  "letterSpacing": 0.19,
+                },
+                Object {
+                  "marginBottom": 13.142857142857142,
+                },
+              ]
+            }
+          />
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                },
+                Object {
+                  "fontSize": 15,
+                },
+              ]
+            }
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "borderColor": "rgba(151, 151, 151, 0.13)",
+            "borderStyle": "dashed",
+            "borderWidth": 1,
+            "flex": 1,
+            "marginHorizontal": 2,
+            "marginTop": 24.642857142857142,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5816.png",
+          }
+        }
+        style={
+          Array [
+            Object {},
+            Object {
+              "borderColor": "rgb(241, 241, 241)",
+              "borderRadius": 12,
+              "borderWidth": 1,
+              "height": 52.57142857142857,
+              "marginRight": 12,
+              "width": 74,
+            },
+          ]
+        }
+      />
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        numberOfLines={1}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+            Object {
+              "width": 300,
+            },
+          ]
+        }
+      >
+        Golf shoes
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 65.71428571428571,
+        "marginBottom": 13.142857142857142,
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "width": 280,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          letterSpacing={0.19}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+                "letterSpacing": 0.19,
+              },
+              Object {
+                "marginBottom": 13.142857142857142,
+              },
+            ]
+          }
+        >
+          2
+        </Text>
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+              },
+              Object {
+                "fontSize": 15,
+              },
+            ]
+          }
+        >
+          nd
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-start",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            letterSpacing={0.19}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                  "letterSpacing": 0.19,
+                },
+                Object {
+                  "marginBottom": 13.142857142857142,
+                },
+              ]
+            }
+          />
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                },
+                Object {
+                  "fontSize": 15,
+                },
+              ]
+            }
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "borderColor": "rgba(151, 151, 151, 0.13)",
+            "borderStyle": "dashed",
+            "borderWidth": 1,
+            "flex": 1,
+            "marginHorizontal": 2,
+            "marginTop": 24.642857142857142,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://i.pinimg.com/564x/d7/60/94/d76094cef0e729fa8f1c4b2af6eae6f6.jpg",
+          }
+        }
+        style={
+          Array [
+            Object {},
+            Object {
+              "borderColor": "rgb(241, 241, 241)",
+              "borderRadius": 12,
+              "borderWidth": 1,
+              "height": 52.57142857142857,
+              "marginRight": 12,
+              "width": 74,
+            },
+          ]
+        }
+      />
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        numberOfLines={1}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+            Object {
+              "width": 300,
+            },
+          ]
+        }
+      >
+        Golf Clubs set
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 65.71428571428571,
+        "marginBottom": 13.142857142857142,
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "width": 280,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          letterSpacing={0.19}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+                "letterSpacing": 0.19,
+              },
+              Object {
+                "marginBottom": 13.142857142857142,
+              },
+            ]
+          }
+        >
+          3
+        </Text>
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+              },
+              Object {
+                "fontSize": 15,
+              },
+            ]
+          }
+        >
+          rd
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-start",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            letterSpacing={0.19}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                  "letterSpacing": 0.19,
+                },
+                Object {
+                  "marginBottom": 13.142857142857142,
+                },
+              ]
+            }
+          />
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                },
+                Object {
+                  "fontSize": 15,
+                },
+              ]
+            }
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "borderColor": "rgba(151, 151, 151, 0.13)",
+            "borderStyle": "dashed",
+            "borderWidth": 1,
+            "flex": 1,
+            "marginHorizontal": 2,
+            "marginTop": 24.642857142857142,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://acushnet.scene7.com/is/image/titleist/Midsize-Bag-TEST-00000?wid=400&qlt=75&resMode=sharp2",
+          }
+        }
+        style={
+          Array [
+            Object {},
+            Object {
+              "borderColor": "rgb(241, 241, 241)",
+              "borderRadius": 12,
+              "borderWidth": 1,
+              "height": 52.57142857142857,
+              "marginRight": 12,
+              "width": 74,
+            },
+          ]
+        }
+      />
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        numberOfLines={1}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+            Object {
+              "width": 300,
+            },
+          ]
+        }
+      >
+        Golf Bag
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 65.71428571428571,
+        "marginBottom": 13.142857142857142,
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "width": 280,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          letterSpacing={0.19}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+                "letterSpacing": 0.19,
+              },
+              Object {
+                "marginBottom": 13.142857142857142,
+              },
+            ]
+          }
+        >
+          4
+        </Text>
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+              },
+              Object {
+                "fontSize": 15,
+              },
+            ]
+          }
+        >
+          th
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-start",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            letterSpacing={0.19}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                  "letterSpacing": 0.19,
+                },
+                Object {
+                  "marginBottom": 13.142857142857142,
+                },
+              ]
+            }
+          />
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                },
+                Object {
+                  "fontSize": 15,
+                },
+              ]
+            }
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "borderColor": "rgba(151, 151, 151, 0.13)",
+            "borderStyle": "dashed",
+            "borderWidth": 1,
+            "flex": 1,
+            "marginHorizontal": 2,
+            "marginTop": 24.642857142857142,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://media.istockphoto.com/vectors/credit-cards-icon-modern-minimal-flat-design-style-vector-travel-vector-id1153200967?k=6&m=1153200967&s=612x612&w=0&h=8hXFJ6kgd06gmX6TBoL7cpo3O71CkkRbgks0vY8_77A=",
+          }
+        }
+        style={
+          Array [
+            Object {},
+            Object {
+              "borderColor": "rgb(241, 241, 241)",
+              "borderRadius": 12,
+              "borderWidth": 1,
+              "height": 52.57142857142857,
+              "marginRight": 12,
+              "width": 74,
+            },
+          ]
+        }
+      />
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        numberOfLines={1}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+            Object {
+              "width": 300,
+            },
+          ]
+        }
+      >
+        Golf Club Membership
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 65.71428571428571,
+        "marginBottom": 13.142857142857142,
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "width": 280,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          letterSpacing={0.19}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+                "letterSpacing": 0.19,
+              },
+              Object {
+                "marginBottom": 13.142857142857142,
+              },
+            ]
+          }
+        >
+          5
+        </Text>
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+              },
+              Object {
+                "fontSize": 15,
+              },
+            ]
+          }
+        >
+          th
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-start",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            letterSpacing={0.19}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                  "letterSpacing": 0.19,
+                },
+                Object {
+                  "marginBottom": 13.142857142857142,
+                },
+              ]
+            }
+          >
+             - 8
+          </Text>
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                },
+                Object {
+                  "fontSize": 15,
+                },
+              ]
+            }
+          >
+            th
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "borderColor": "rgba(151, 151, 151, 0.13)",
+            "borderStyle": "dashed",
+            "borderWidth": 1,
+            "flex": 1,
+            "marginHorizontal": 2,
+            "marginTop": 24.642857142857142,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://image.freepik.com/free-vector/realistic-detailed-credit-cards-set-with-black-abstract-background-front-back-side-template_11639-26.jpg",
+          }
+        }
+        style={
+          Array [
+            Object {},
+            Object {
+              "borderColor": "rgb(241, 241, 241)",
+              "borderRadius": 12,
+              "borderWidth": 1,
+              "height": 52.57142857142857,
+              "marginRight": 12,
+              "width": 74,
+            },
+          ]
+        }
+      />
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        numberOfLines={1}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+            Object {
+              "width": 300,
+            },
+          ]
+        }
+      >
+        S6M Membership
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 65.71428571428571,
+        "marginBottom": 13.142857142857142,
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "width": 280,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          letterSpacing={0.19}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+                "letterSpacing": 0.19,
+              },
+              Object {
+                "marginBottom": 13.142857142857142,
+              },
+            ]
+          }
+        >
+          9
+        </Text>
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+              },
+              Object {
+                "fontSize": 15,
+              },
+            ]
+          }
+        >
+          th
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-start",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            letterSpacing={0.19}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                  "letterSpacing": 0.19,
+                },
+                Object {
+                  "marginBottom": 13.142857142857142,
+                },
+              ]
+            }
+          >
+             - 16
+          </Text>
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                },
+                Object {
+                  "fontSize": 15,
+                },
+              ]
+            }
+          >
+            th
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "borderColor": "rgba(151, 151, 151, 0.13)",
+            "borderStyle": "dashed",
+            "borderWidth": 1,
+            "flex": 1,
+            "marginHorizontal": 2,
+            "marginTop": 24.642857142857142,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://images-na.ssl-images-amazon.com/images/I/51HUNQtQKOL._SX425_.jpg",
+          }
+        }
+        style={
+          Array [
+            Object {},
+            Object {
+              "borderColor": "rgb(241, 241, 241)",
+              "borderRadius": 12,
+              "borderWidth": 1,
+              "height": 52.57142857142857,
+              "marginRight": 12,
+              "width": 74,
+            },
+          ]
+        }
+      />
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        numberOfLines={1}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+            Object {
+              "width": 300,
+            },
+          ]
+        }
+      >
+        Golf Club #9
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 65.71428571428571,
+        "marginBottom": 13.142857142857142,
+        "paddingVertical": 13.142857142857142,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "width": 280,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          letterSpacing={0.19}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+                "letterSpacing": 0.19,
+              },
+              Object {
+                "marginBottom": 13.142857142857142,
+              },
+            ]
+          }
+        >
+          17
+        </Text>
+        <Text
+          allowFontScaling={false}
+          color="rgb(0, 0, 0)"
+          fontFamily="SFProText-Regular"
+          fontSize={24}
+          style={
+            Array [
+              Object {
+                "color": "rgb(0, 0, 0)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 24,
+              },
+              Object {
+                "fontSize": 15,
+              },
+            ]
+          }
+        >
+          th
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-start",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            letterSpacing={0.19}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                  "letterSpacing": 0.19,
+                },
+                Object {
+                  "marginBottom": 13.142857142857142,
+                },
+              ]
+            }
+          >
+             - 32
+          </Text>
+          <Text
+            allowFontScaling={false}
+            color="rgb(0, 0, 0)"
+            fontFamily="SFProText-Regular"
+            fontSize={24}
+            style={
+              Array [
+                Object {
+                  "color": "rgb(0, 0, 0)",
+                  "fontFamily": "SFProText-Regular",
+                  "fontSize": 24,
+                },
+                Object {
+                  "fontSize": 15,
+                },
+              ]
+            }
+          >
+            th
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "borderColor": "rgba(151, 151, 151, 0.13)",
+            "borderStyle": "dashed",
+            "borderWidth": 1,
+            "flex": 1,
+            "marginHorizontal": 2,
+            "marginTop": 24.642857142857142,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://thumbs.dreamstime.com/b/golf-ball-background-sport-concept-d-render-60338176.jpg",
+          }
+        }
+        style={
+          Array [
+            Object {},
+            Object {
+              "borderColor": "rgb(241, 241, 241)",
+              "borderRadius": 12,
+              "borderWidth": 1,
+              "height": 52.57142857142857,
+              "marginRight": 12,
+              "width": 74,
+            },
+          ]
+        }
+      />
+      <Text
+        allowFontScaling={false}
+        color="rgb(0, 0, 0)"
+        fontFamily="SFProText-Medium"
+        fontSize={22.5}
+        numberOfLines={1}
+        style={
+          Array [
+            Object {
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "SFProText-Medium",
+              "fontSize": 22.5,
+            },
+            Object {
+              "width": 300,
+            },
+          ]
+        }
+      >
+        Golf Balls
+      </Text>
+    </View>
+  </View>
+</View>
+`;

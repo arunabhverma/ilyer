@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237916277363",
+    "project_id": "ilyerooms",
+    "storage_bucket": "ilyerooms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237916277363:android:5a43e3e4a279d2a4be3806",
+        "android_client_info": {
+          "package_name": "com.ilyerooms.gs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237916277363-ntotqrmpv67r0nf0een8slo4la1ghs6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNnR4TLJkRlLAYOnI_NiDJs5TFY_iL9EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237916277363-ntotqrmpv67r0nf0een8slo4la1ghs6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
