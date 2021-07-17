@@ -4,8 +4,8 @@ import { createMaterialTopTabNavigator } from '@react-navigation/material-top-ta
 import { s, vs, ms } from 'react-native-size-matters/extend';
 import { ScreenHeadingText, SecondaryText, ButtonText } from "@components";
 import theme from '@theme';
-import Info from './index1'
-import Scoring from './index1'
+import Upcoming from './Upcoming'
+import Previous from './Previous'
 
 const BookingStack = ({ matchesDetails, tournamentDetails }) => {
   const Tab = createMaterialTopTabNavigator();
@@ -13,28 +13,27 @@ const BookingStack = ({ matchesDetails, tournamentDetails }) => {
   const TabStack = () => {
     return (
       <Tab.Navigator
-        swipeEnabled={true}
         tabBarOptions={{
           labelStyle: styles.tabLable,
           pressOpacity: 1,
           pressColor: 1,
-          tabStyle: styles.tab,
           activeTintColor: theme.colors.notification,
           inactiveTintColor: theme.colors.card,
+          indicatorStyle: { backgroundColor: 'rgba(0, 0, 0, 0)' },
           style: styles.tabContainer,
         }}
       >
         <Tab.Screen
           name={'Upcoming'}
-          component={Info}
+          component={Upcoming}
           initialParams={{ matchesDetails }}
         />
         <Tab.Screen
           name={'Previous'}
-          component={Scoring}
+          component={Previous}
           initialParams={{ matchesDetails: matchesDetails }}
         />
-      </Tab.Navigator>
+      </Tab.Navigator >
     );
   }
   return (
@@ -50,44 +49,16 @@ const BookingStack = ({ matchesDetails, tournamentDetails }) => {
           {"My Trips"}
         </ButtonText>
       </View>
-      <View style={{ flexDirection: "row", backgroundColor: "black" }}>
-        <TouchableOpacity
-          style={{ alignItems: "center", flex: 1, paddingVertical: vs(5) }}
-        >
-          <ButtonText fontSize={ms(25)} color={"white"}>
-            {"Upcoming"}
-          </ButtonText>
-        </TouchableOpacity>
-        <TouchableOpacity
-          style={{ alignItems: "center", flex: 1, paddingVertical: vs(5) }}
-        >
-          <ButtonText fontSize={ms(25)} color={"red"}>
-            {"Previous"}
-          </ButtonText>
-        </TouchableOpacity>
-      </View>
       <TabStack />
-      {/* <FlatList
-        data={[0, 1, 2, 3, 4, 5, 6]}
-        renderItem={HotelCard}
-        contentContainerStyle={{ paddingBottom: s(120) }}
-        showsHorizontalScrollIndicator={false}
-        keyExtractor={(item, index) => index.toString()}
-      /> */}
     </View>
   );
-
 };
-
-
 
 const styles = StyleSheet.create({
   tabLable: {
     fontSize: ms(25),
-    width: '100%',
-    alignSelf: 'center',
-    textAlign: 'center',
     fontFamily: theme.fonts.SFProTextMedium,
+    textTransform: 'capitalize'
   },
   tab: {
     width: '100%',

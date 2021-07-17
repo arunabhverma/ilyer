@@ -1,5 +1,5 @@
 import React from 'react';
-import {s, vs, ms} from 'react-native-size-matters/extend';
+import { s, vs, ms } from 'react-native-size-matters/extend';
 import {
   fontFamily,
   textAlign,

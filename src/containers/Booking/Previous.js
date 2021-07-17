@@ -84,7 +84,7 @@ const BookingStack = ({ navigation }) => {
             }}
           >
             <TouchableOpacity
-              onPress={() => navigation.push("Verification")}
+              onPress={() => { }}
               style={{
                 // height: vs(30),
                 padding: s(5),
@@ -100,7 +100,7 @@ const BookingStack = ({ navigation }) => {
               <ButtonText fontSize={ms(10)}>{"Book again"}</ButtonText>
             </TouchableOpacity>
             <TouchableOpacity
-              onPress={() => navigation.push("Verification")}
+              onPress={() => { }}
               style={{
                 // height: vs(30),
                 padding: s(5),
@@ -123,33 +123,6 @@ const BookingStack = ({ navigation }) => {
 
   return (
     <View style={{ flex: 1, backgroundColor: "rgb(250,250,250)" }}>
-      <View
-        style={{
-          alignItems: "center",
-          backgroundColor: theme.colors.notification,
-          paddingVertical: vs(5),
-        }}
-      >
-        <ButtonText fontSize={ms(25)} color={"white"}>
-          {"My Trips"}
-        </ButtonText>
-      </View>
-      <View style={{ flexDirection: "row", backgroundColor: "black" }}>
-        <TouchableOpacity
-          style={{ alignItems: "center", flex: 1, paddingVertical: vs(5) }}
-        >
-          <ButtonText fontSize={ms(25)} color={"white"}>
-            {"Upcoming"}
-          </ButtonText>
-        </TouchableOpacity>
-        <TouchableOpacity
-          style={{ alignItems: "center", flex: 1, paddingVertical: vs(5) }}
-        >
-          <ButtonText fontSize={ms(25)} color={"red"}>
-            {"Previous"}
-          </ButtonText>
-        </TouchableOpacity>
-      </View>
       <FlatList
         data={[0, 1, 2, 3, 4, 5, 6]}
         renderItem={HotelCard}

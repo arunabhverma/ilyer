@@ -305,6 +305,7 @@ const HotelDetails = ({ navigation, route }) => {
             <IoniconsIcons name={"heart-outline"} color="red" size={ms(35)} />
           </TouchableOpacity>
           <TouchableOpacity
+            onPress={() => navigation.navigate('HotelBooking')}
             style={{
               width: "70%",
               marginTop: vs(20),
