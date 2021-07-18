@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
 import {
-  Text,
+
   View,
   SafeAreaView,
   StyleSheet,
@@ -9,10 +9,17 @@ import {
 import IoniconsIcons from 'react-native-vector-icons/Ionicons';
 import LinearGradient from 'react-native-linear-gradient';
 import { s, vs, ms } from 'react-native-size-matters/extend';
-import { AppLoader, PlainText } from '@components';
+import { Picker } from '@react-native-picker/picker';
+import { AppLoader, PlainText, SectionHeadingText } from '@components';
 import theme from '@theme';
 
 const BookingReview = () => {
+
+  const [state, setState] = useState({
+    me: '',
+    another: '',
+    gender: 'Mrs.'
+  })
   const Header = () => {
     return (
       <View style={styles.header}>
@@ -77,6 +84,59 @@ const BookingReview = () => {
     );
   };
 
+  const BookingForPlate = () => {
+    return (
+      <View>
+        <SectionHeadingText color={theme.colors.text} fontWeight={'bold'} >I am booking for</SectionHeadingText>
+        <View style={{ flexDirection: 'row', marginVertical: vs(10) }}>
+          <TouchableOpacity activeOpacity={1} onPress={() => setState((prev) => ({ ...prev, me: !state.me, another: false }))} style={{ flexDirection: 'row', alignItems: 'center' }}>
+            <IoniconsIcons
+              name={state.me ? 'radio-button-on' : 'radio-button-off'}
+              color={state.me ? 'rgb(0,131,233)' : theme.colors.genderBorder}
+              size={ms(25)}
+              style={{ marginRight: s(5) }}
+            />
+            <SectionHeadingText fontSize={ms(18)} color={theme.colors.text}>Myself</SectionHeadingText>
+          </TouchableOpacity>
+          <TouchableOpacity activeOpacity={1} onPress={() => setState((prev) => ({ ...prev, another: !state.another, me: false }))} style={{ flexDirection: 'row', alignItems: 'center', marginLeft: s(15) }}>
+            <IoniconsIcons
+              name={state.another ? 'radio-button-on' : 'radio-button-off'}
+              color={state.another ? 'rgb(0,131,233)' : theme.colors.genderBorder}
+              size={ms(25)}
+              style={{ marginRight: s(5) }}
+            />
+            <SectionHeadingText fontSize={ms(18)} color={theme.colors.text}>Someone Else</SectionHeadingText>
+          </TouchableOpacity>
+        </View>
+      </View>
+    );
+  }
+
+  const Name = () => {
+    return (
+      <View>
+        <Picker
+          selectedValue={state.gender}
+          onValueChange={(itemValue, itemIndex) =>
+            setState((prev) => ({ ...prev, gender: itemValue }))
+          }>
+          <Picker.Item label="Java" value="java" />
+          <Picker.Item label="JavaScript" value="js" />
+        </Picker>
+        <PlainText>hello world</PlainText>
+      </View>
+    );
+  }
+
+  const BookingFor = () => {
+    return (
+      <View style={[styles.roomStyles, { padding: ms(15) }]}>
+        <BookingForPlate />
+        <Name />
+      </View>
+    );
+  }
+
   const BookingDetails = () => {
     const RoomTape = (props) => {
       return (
@@ -120,8 +180,9 @@ const BookingReview = () => {
         </View>
       );
     };
-    return (
-      <View style={styles.bookingContainer}>
+
+    const Rooms = () => {
+      return (
         <View style={styles.roomStyles}>
           <RoomTape
             details={'1 Room x 1 Night'}
@@ -139,6 +200,12 @@ const BookingReview = () => {
             totalAmount={true}
           />
         </View>
+      );
+    }
+    return (
+      <View style={styles.bookingContainer}>
+        <Rooms />
+        <BookingFor />
       </View>
     );
   };
