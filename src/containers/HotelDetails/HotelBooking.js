@@ -104,7 +104,9 @@ const HotelBooking = ({ navigation }) => {
             Per Night (2 Adults)
           </Text>
         </View>
-        <TouchableOpacity style={{ margin: ms(10) }}>
+        <TouchableOpacity
+          onPress={() => navigation.navigate('BookingReview')}
+          style={{ margin: ms(10) }}>
           <LinearGradient
             start={{ x: 0, y: 0 }}
             end={{ x: 1, y: 0 }}

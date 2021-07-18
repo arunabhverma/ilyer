@@ -25,6 +25,7 @@ import BookingDetails from './containers/Booking/BookingDetails'
 import FilterStack from './containers/Home/FilterStack'
 import Booking from './containers/Home/Booking'
 import HotelBooking from './containers/HotelDetails/HotelBooking'
+import BookingReview from './containers/HotelDetails/BookingReview'
 import TabBar from "./containers/TabBar";
 
 console.disableYellowBox = true
@@ -102,6 +103,13 @@ const AppNavigator = ({ token, userId }) => {
         <Stack.Screen
           name="HotelBooking"
           component={HotelBooking}
+          options={({ navigation }) => ({
+            headerShown: false
+          })}
+        />
+        <Stack.Screen
+          name="BookingReview"
+          component={BookingReview}
           options={({ navigation }) => ({
             headerShown: false
           })}

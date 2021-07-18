@@ -29,7 +29,8 @@ const themeDefault = {
     gray244: 'rgb(244, 244, 244)',
     gray117: 'rgb(117, 117, 117)',
     gray113: 'rgb(113, 113, 113)',
-    gameStartBack: 'rgb(239, 242, 247)'
+    gameStartBack: 'rgb(239, 242, 247)',
+    modify: 'rgb(17,114,153)',
   },
 
   fonts: Platform.select({
